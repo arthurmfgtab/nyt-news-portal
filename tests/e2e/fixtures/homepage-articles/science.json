@@ -1,0 +1,981 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2021 The New York Times Company. All Rights Reserved.",
+    "section": "Science",
+    "last_updated": "2021-11-11T18:36:38-05:00",
+    "num_results": 25,
+    "results": [
+        {
+            "section": "science",
+            "subsection": "",
+            "title": "Sign Up for the Science Times Newsletter",
+            "abstract": "Every week, we’ll bring you stories that capture the wonders of the human body, nature and the cosmos.",
+            "url": "null",
+            "uri": "nyt://embeddedinteractive/daba9d03-29b8-5cfc-8cbd-74b8abf54a07",
+            "byline": "",
+            "item_type": "EmbeddedInteractive",
+            "updated_date": "2018-04-07T13:23:25-04:00",
+            "created_date": "2016-02-05T18:18:53-05:00",
+            "published_date": "2016-02-05T18:18:53-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2016/02/06/science/sciencenewsletter2/sciencenewsletter2-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1534,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "NASA, via Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "admin",
+            "subsection": "",
+            "title": "",
+            "abstract": "",
+            "url": "",
+            "uri": "nyt://embeddedinteractive/6cb185ed-65ac-50a5-ace3-5bab81934245",
+            "byline": "",
+            "item_type": "EmbeddedInteractive",
+            "updated_date": "2015-07-20T13:45:03-04:00",
+            "created_date": "2015-04-16T14:13:18-04:00",
+            "published_date": "2015-04-16T14:13:18-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": null,
+            "short_url": ""
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Negotiators Strike a Climate Deal, but World Remains Far From Limiting Warming",
+            "abstract": "Some activists called the agreement in Glasgow disappointing, but it establishes a clear consensus that all countries need to do much more.",
+            "url": "https://www.nytimes.com/2021/11/13/climate/cop26-glasgow-climate-agreement.html",
+            "uri": "nyt://article/92b723ab-c435-5bce-a4ec-6bf328d20341",
+            "byline": "By Brad Plumer and Lisa Friedman",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T15:45:00-05:00",
+            "created_date": "2021-11-13T15:23:35-05:00",
+            "published_date": "2021-11-13T15:23:35-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Global Warming",
+                "Greenhouse Gas Emissions",
+                "United Nations Framework Convention on Climate Change",
+                "Coal",
+                "Carbon Dioxide",
+                "Air Pollution",
+                "Floods",
+                "Third World and Developing Countries",
+                "Disasters and Emergencies"
+            ],
+            "org_facet": ["United Nations"],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/13/multimedia/13cli-cop26-final-group02/13cli-cop26-final-group02-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "John Kerry, third from right, on Saturday in Glasgow with his counterparts from China and the European Union. ",
+                    "copyright": "Jeff J Mitchell/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/30kqm8K"
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "‘They See Us as the Enemy’: School Nurses Battle Covid-19, and Angry Parents",
+            "abstract": "School nurses, who were already stretched thin before the pandemic, say that they are overworked and overwhelmed.",
+            "url": "https://www.nytimes.com/2021/11/13/health/coronavirus-school-nurses.html",
+            "uri": "nyt://article/b7b5dec8-aaa7-5b42-b835-6378130ffd79",
+            "byline": "By Emily Anthes",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T11:34:38-05:00",
+            "created_date": "2021-11-13T05:00:13-05:00",
+            "published_date": "2021-11-13T05:00:13-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "your-feed-science",
+                "Nursing and Nurses",
+                "Coronavirus (2019-nCoV)",
+                "Education (K-12)",
+                "your-feed-health",
+                "Parenting",
+                "Disease Rates"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": ["Oregon"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/05/science/00virus-school-nurses-promo/merlin_197347905_a62385e8-3368-4145-8cca-251b6d9cb2e2-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1367,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Brandon Thibodeaux for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3qHeRDk"
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "For Terminal Patients, the Barrier to Aid in Dying Can Be a State Line",
+            "abstract": "Complex restrictions are preventing patients from accessing medical aid in dying, even in states where it is allowed. New legal and legislative efforts are pushing to change that.",
+            "url": "https://www.nytimes.com/2021/11/13/health/death-dying-dignity.html",
+            "uri": "nyt://article/e913dba2-2c39-55cf-947a-88b72e00bb66",
+            "byline": "By Paula Span",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T08:28:20-05:00",
+            "created_date": "2021-11-13T05:00:09-05:00",
+            "published_date": "2021-11-13T05:00:09-05:00",
+            "material_type_facet": "",
+            "kicker": "The New Old Age",
+            "des_facet": [
+                "Law and Legislation",
+                "Euthanasia and Assisted Suicide",
+                "Death and Dying",
+                "Elderly",
+                "Hospice Care",
+                "your-feed-health"
+            ],
+            "org_facet": ["Compassion & Choices"],
+            "per_facet": [],
+            "geo_facet": ["Portland (Ore)", "Washington (State)"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/science/00SCI-SPAN-DIGNITY1/merlin_197652333_56eca798-b524-49bb-ad02-5b6490248405-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Dr. Nicholas Gideonse, a hospice medical director and doctor at Oregon Health & Science University.",
+                    "copyright": "Tojo Andrianarivo for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3CeT48a"
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Glasgow Climate Talks Are Down to the Wire on Money, Ambition and Fossil Fuels",
+            "abstract": "At COP26, negotiators from about 200 countries worked overnight, hashing out differences in the quest for a new global climate agreement",
+            "url": "https://www.nytimes.com/2021/11/12/climate/glasgow-climate-cop26.html",
+            "uri": "nyt://article/ab070e5b-55de-5476-88a6-84ca5d5759c9",
+            "byline": "By Somini Sengupta, Lisa Friedman and Brad Plumer",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T10:26:58-05:00",
+            "created_date": "2021-11-12T18:34:33-05:00",
+            "published_date": "2021-11-12T18:34:33-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Global Warming",
+                "Greenhouse Gas Emissions",
+                "United Nations Framework Convention on Climate Change",
+                "Coal",
+                "Third World and Developing Countries"
+            ],
+            "org_facet": ["United Nations"],
+            "per_facet": [],
+            "geo_facet": ["Glasgow (Scotland)"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/climate/12CLI-LEDALLCOP261/merlin_197728944_fa9b4c0d-00cd-4497-923f-0ee2e4ac00e3-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Extinction Rebellion protesters outside the COP26 summit in Glasgow, Scotland, on Friday, the last day of the two-week conference.",
+                    "copyright": "Peter Summers/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3HkHzQo"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Biden Chooses Robert Califf to Lead F.D.A., Despite Drug Industry Ties",
+            "abstract": "Dr. Robert M. Califf, an academic and clinical trial researcher who ran the agency in 2016, has also consulted for pharmaceutical companies.",
+            "url": "https://www.nytimes.com/2021/11/12/us/politics/robert-califf-fda.html",
+            "uri": "nyt://article/fa756fd8-f549-554b-9125-5b484ba90011",
+            "byline": "By Sheryl Gay Stolberg and Sheila Kaplan",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T23:50:40-05:00",
+            "created_date": "2021-11-12T10:37:36-05:00",
+            "published_date": "2021-11-12T10:37:36-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Drugs (Pharmaceuticals)",
+                "Clinical Trials",
+                "Regulation and Deregulation of Industry",
+                "Conflicts of Interest",
+                "Appointments and Executive Changes",
+                "United States Politics and Government"
+            ],
+            "org_facet": ["Food and Drug Administration", "Duke University"],
+            "per_facet": ["Califf, Robert M", "Biden, Joseph R Jr", "Manchin, Joe III"],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/03/us/politics/00DC-CALIFF-HFO/00DC-CALIFF-HFO-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "If Dr. Robert M. Califf, center, is confirmed by the Senate, he will again take the reins of an agency that is responsible for more than $2.8 trillion worth of food, medical products and tobacco.",
+                    "copyright": "Andrew Harnik/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3oqPUt8"
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Veterans Have Become Unlikely Lobbyists in Push to Legalize Psychedelic Drugs",
+            "abstract": "Lawmakers find it hard to “just say no” to combat veterans seeking support for drug decriminalization efforts gaining traction around the country.",
+            "url": "https://www.nytimes.com/2021/11/11/health/veterans-psychedelics-ptsd-depression.html",
+            "uri": "nyt://article/b04855a9-e4df-5ee6-8f9f-2faaef25ff43",
+            "byline": "By Andrew Jacobs",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T08:55:04-05:00",
+            "created_date": "2021-11-11T12:49:59-05:00",
+            "published_date": "2021-11-11T12:49:59-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Veterans",
+                "Psychedelic and Hallucinogenic Drugs",
+                "Psilocybin Mushrooms",
+                "Anxiety and Stress",
+                "Afghanistan War (2001- )",
+                "Mental Health and Disorders",
+                "Post-Traumatic Stress Disorder",
+                "audio-neutral-informative",
+                "your-feed-healthcare"
+            ],
+            "org_facet": ["Food and Drug Administration"],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/04/science/00-psychedelics-and-vets-promo/merlin_193019121_3a15c367-058f-454d-bc58-a3d2b3fc8f02-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1367,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Damon Casarez for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3HceUgo"
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Calls for Climate Reparations Reach Boiling Point in Glasgow Talks",
+            "abstract": "For decades, vulnerable countries and activist groups have demanded that rich polluter countries pay for irreparable damage from climate change. This year, there may be a breakthrough.",
+            "url": "https://www.nytimes.com/2021/11/11/climate/climate-glasgow-cop26-loss-damage.html",
+            "uri": "nyt://article/a3687767-5394-58c2-8a09-bee943a568d2",
+            "byline": "By Somini Sengupta",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T08:16:36-05:00",
+            "created_date": "2021-11-11T12:17:20-05:00",
+            "published_date": "2021-11-11T12:17:20-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Global Warming",
+                "Greenhouse Gas Emissions",
+                "United Nations Framework Convention on Climate Change",
+                "United States International Relations",
+                "Third World and Developing Countries",
+                "Floods",
+                "Cyclones"
+            ],
+            "org_facet": ["United Nations"],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/11/climate/11CLI-Reparations1b/merlin_172731027_400d9ef7-4b27-4a11-aa64-60eaa91399e0-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Repairs to a destroyed home in the aftermath of Cyclone Amphan in Satkhira, Bangladesh, in 2020.",
+                    "copyright": "Munir Uz Zaman/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3c2NiMl"
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Bariatric Surgery May Lower Risk for Severe Liver Disease, New Study Finds",
+            "abstract": "Obesity is a leading cause of fatty liver condition. Patients who had weight-loss surgery showed fewer signs of the disease progressing.",
+            "url": "https://www.nytimes.com/2021/11/11/health/obesity-fatty-liver-surgery.html",
+            "uri": "nyt://article/294ae627-4e21-5ad7-b07e-df5170b5c732",
+            "byline": "By Roni Caryn Rabin",
+            "item_type": "Article",
+            "updated_date": "2021-11-11T11:34:53-05:00",
+            "created_date": "2021-11-11T11:34:53-05:00",
+            "published_date": "2021-11-11T11:34:53-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Obesity",
+                "Weight",
+                "Bariatric Surgery",
+                "Liver",
+                "Research",
+                "your-feed-healthcare"
+            ],
+            "org_facet": ["Cleveland Clinic", "Journal of the American Medical Assn"],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/11/science/11fatty-liver-obesity/11fatty-liver-obesity-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The study adds to mounting evidence that the surgery’s benefits for the more than 100 million obese American adults extend beyond weight loss, yielding improvements in overall health and quality of life.",
+                    "copyright": "Juan Carlos Herrera/Alamy "
+                }
+            ],
+            "short_url": "https://nyti.ms/3c41DrS"
+        },
+        {
+            "section": "science",
+            "subsection": "",
+            "title": "What We Know So Far About Waning Vaccine Effectiveness",
+            "abstract": "Vaccines still offer strong protection against severe Covid-19, but many studies show their protection against infection decreases over time. How much that decline matters is up for debate.",
+            "url": "https://www.nytimes.com/interactive/2021/11/11/science/vaccine-waning-immunity.html",
+            "uri": "nyt://interactive/0d024309-408e-507b-a614-265fde60ce72",
+            "byline": "By Amy Schoenfeld Walker and Josh Holder",
+            "item_type": "Interactive",
+            "updated_date": "2021-11-12T09:23:08-05:00",
+            "created_date": "2021-11-11T05:00:02-05:00",
+            "published_date": "2021-11-11T05:00:02-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Vaccination and Immunization",
+                "Coronavirus Risks and Safety Concerns",
+                "Coronavirus Delta Variant"
+            ],
+            "org_facet": ["BioNTech SE", "Moderna Inc", "Pfizer Inc", "Johnson & Johnson"],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/10/us/vaccine-waning-immunity-promo-1636565127879/vaccine-waning-immunity-promo-1636565127879-superJumbo-v6.png",
+                    "format": "superJumbo",
+                    "height": 1333,
+                    "width": 2000,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                }
+            ],
+            "short_url": "https://nyti.ms/3n57svJ"
+        },
+        {
+            "section": "science",
+            "subsection": "",
+            "title": "More than 600 human beings have now been to space.",
+            "abstract": "Three of the four astronauts aboard Crew-3 are making their first trip to space.",
+            "url": "https://www.nytimes.com/2021/11/10/science/600-astronauts-space.html",
+            "uri": "nyt://article/d103867b-eec6-5b5a-9ff1-c49ba3f66aec",
+            "byline": "By Joey Roulette",
+            "item_type": "Article",
+            "updated_date": "2021-11-10T21:15:55-05:00",
+            "created_date": "2021-11-10T21:15:55-05:00",
+            "published_date": "2021-11-10T21:15:55-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": ["Space and Astronomy", "Private Spaceflight"],
+            "org_facet": [
+                "National Aeronautics and Space Administration",
+                "Space Exploration Technologies Corp",
+                "Blue Origin"
+            ],
+            "per_facet": ["Barron, Kayla J", "Maurer, Matthias", "Chari, Raja"],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/10/multimedia/10spacex-crew/10spacex-crew-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1438,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The astronauts of Crew-3 set off to SpaceX's launchpad on Wednesday.",
+                    "copyright": "Joe Raedle/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Hdaje0"
+        },
+        {
+            "section": "science",
+            "subsection": "",
+            "title": "A ‘laggy’ parachute on Monday led to questions for NASA.",
+            "abstract": "The agency was satisfied after a review of the incident during Monday’s landing of a SpaceX Crew Dragon capsule.",
+            "url": "https://www.nytimes.com/2021/11/10/science/parachute-dragon-nasa.html",
+            "uri": "nyt://article/8e01fb0f-a7d0-5e48-a649-f8d2651c0310",
+            "byline": "By Joey Roulette",
+            "item_type": "Article",
+            "updated_date": "2021-11-10T19:50:42-05:00",
+            "created_date": "2021-11-10T19:46:11-05:00",
+            "published_date": "2021-11-10T19:46:11-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Parachutes and Parachute Jumping",
+                "Space and Astronomy",
+                "Private Spaceflight"
+            ],
+            "org_facet": [
+                "Space Exploration Technologies Corp",
+                "National Aeronautics and Space Administration"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/10/science/10spacex-launch-parachute/10spacex-launch-parachute-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1364,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An image taken from NASA video showing the Dragon Crew-2 capsule descending into the Gulf of Mexico near Pensacola, Fla., on Monday.",
+                    "copyright": "NASA, via Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3H8Nx6R"
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "China and U.S., at Odds on Many Issues, Agree on a Surprise Climate Deal",
+            "abstract": "Some observers hoped the announcement might inject needed energy into lackluster negotiations at this week’s Glasgow climate summit, although the terms weren’t particularly aggressive.",
+            "url": "https://www.nytimes.com/2021/11/10/climate/china-us-climate-deal-kerry-xie.html",
+            "uri": "nyt://article/09763960-9a4a-507e-8146-e75857a5f65c",
+            "byline": "By Lisa Friedman",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T11:07:35-05:00",
+            "created_date": "2021-11-10T19:11:05-05:00",
+            "published_date": "2021-11-10T19:11:05-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Global Warming",
+                "Greenhouse Gas Emissions",
+                "United States International Relations",
+                "Methane",
+                "United Nations Framework Convention on Climate Change"
+            ],
+            "org_facet": [],
+            "per_facet": ["Kerry, John"],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/10/climate/10cli-china-us-cop261/merlin_197630661_f1c55329-4c53-465b-b1c8-607b15ee60b9-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "China’s climate envoy, Xie Zhenhua, during the joint China-U.S. statement Wednesday.",
+                    "copyright": "Jeff J Mitchell/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3ogS6TZ"
+        },
+        {
+            "section": "science",
+            "subsection": "",
+            "title": "SpaceX’s toilet is working fine, thanks for asking.",
+            "abstract": "It will be good for the crew to have a working toilet when they’re spending nearly 24 hours in orbit before getting to the space station.",
+            "url": "https://www.nytimes.com/2021/11/10/science/spacex-toilet-diapers.html",
+            "uri": "nyt://article/dbaf4f39-7f77-520f-8dca-52f4c946a6cb",
+            "byline": "By Joey Roulette",
+            "item_type": "Article",
+            "updated_date": "2021-11-10T19:08:14-05:00",
+            "created_date": "2021-11-10T19:01:00-05:00",
+            "published_date": "2021-11-10T19:01:00-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Private Spaceflight",
+                "Bathrooms and Toilets",
+                "Space and Astronomy",
+                "Rocket Science and Propulsion"
+            ],
+            "org_facet": [
+                "Space Exploration Technologies Corp",
+                "National Aeronautics and Space Administration"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/08/science/08spacex-landing-toilet/merlin_196866903_65b3e577-8cda-407a-b93a-ac0dd45e74d8-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Crew Dragon toilet, upper right.",
+                    "copyright": "T. Pesquet/ESA/NASA"
+                }
+            ],
+            "short_url": "https://nyti.ms/31PTVQq"
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Ten states sue the U.S. over the vaccine mandate for health care workers.",
+            "abstract": "The suit claims that the rule “threatens with job loss millions of health care workers who risked their lives.”",
+            "url": "https://www.nytimes.com/2021/11/10/health/vaccine-mandate-state-lawsuit.html",
+            "uri": "nyt://article/a59f96d4-23bd-55c7-90bc-f57b68035bb0",
+            "byline": "By Reed Abelson",
+            "item_type": "Article",
+            "updated_date": "2021-11-11T16:50:49-05:00",
+            "created_date": "2021-11-10T18:02:28-05:00",
+            "published_date": "2021-11-10T18:02:28-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": ["Coronavirus (2019-nCoV)", "Vaccination and Immunization"],
+            "org_facet": ["Centers for Medicare and Medicaid Services"],
+            "per_facet": ["Brooks-LaSure, Chiquita"],
+            "geo_facet": [
+                "Alaska",
+                "Arkansas",
+                "Iowa",
+                "Kansas",
+                "Missouri",
+                "Nebraska",
+                "New Hampshire",
+                "North Dakota",
+                "South Dakota",
+                "Wyoming"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/10/multimedia/10virus-briefing-health-workers-vax-mandate-new/10virus-briefing-health-workers-vax-mandate-new-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Demonstrators attending a rally against vaccine mandates outside the Statehouse in Concord, N.H., in September.",
+                    "copyright": "Geoff Forester/The Concord Monitor, via Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3D5JVQK"
+        },
+        {
+            "section": "science",
+            "subsection": "",
+            "title": "The space station just dodged debris from a 2007 Chinese weapons test.",
+            "abstract": "The object was expected to make a close pass with the outpost in orbit on Thursday night.",
+            "url": "https://www.nytimes.com/2021/11/10/science/china-debris-space-station.html",
+            "uri": "nyt://article/f8b17967-2c02-5799-be24-1c9f5e407ed3",
+            "byline": "By Joey Roulette",
+            "item_type": "Article",
+            "updated_date": "2021-11-10T17:03:53-05:00",
+            "created_date": "2021-11-10T17:03:53-05:00",
+            "published_date": "2021-11-10T17:03:53-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "International Space Station",
+                "Satellites",
+                "Defense and Military Forces",
+                "Space and Astronomy",
+                "Private Spaceflight"
+            ],
+            "org_facet": ["National Aeronautics and Space Administration"],
+            "per_facet": [],
+            "geo_facet": ["China"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/10/science/10spacex-launch-iss-debris/10spacex-launch-iss-debris-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1094,
+                    "width": 1643,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A NASA-TV-provided view of the I.S.S. from the Dragon Crew-2 capsule as it undocked on Monday.",
+                    "copyright": "NASA, via Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3C2t5kw"
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "China and the United States Join in Seeking Emissions Cuts",
+            "abstract": "As nearly 200 nations struggle over global climate negotiations, the world’s two biggest polluters sign an agreement, but it was short on details.",
+            "url": "https://www.nytimes.com/2021/11/10/climate/climate-cop26-glasgow.html",
+            "uri": "nyt://article/ca2794ae-177f-514b-93be-66879fb0d82a",
+            "byline": "By Brad Plumer and Lisa Friedman",
+            "item_type": "Article",
+            "updated_date": "2021-11-11T08:37:27-05:00",
+            "created_date": "2021-11-10T15:33:19-05:00",
+            "published_date": "2021-11-10T15:33:19-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Global Warming",
+                "Greenhouse Gas Emissions",
+                "United Nations Framework Convention on Climate Change",
+                "Air Pollution",
+                "Coal",
+                "Carbon Dioxide",
+                "United States International Relations",
+                "Politics and Government",
+                "Third World and Developing Countries"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": ["China"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/10/multimedia/10cop26-briefing-us-china2/10cop26-briefing-us-china2-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "China's climate envoy, Xie Zhenhua, in Glasgow on Wednesday. “There is more agreement between China and the U.S. than divergence,” he said.",
+                    "copyright": "Jeff J Mitchell/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3n2Oy8q"
+        },
+        {
+            "section": "books",
+            "subsection": "review",
+            "title": "A Biography of E.O. Wilson, the Scientist Who Foresaw Our Troubles",
+            "abstract": "In Richard Rhodes’s “Scientist,” a portrait emerges of Wilson’s ability to focus on the smallest details in nature and recognize the ways in which they connect to larger ecosystems.",
+            "url": "https://www.nytimes.com/2021/11/10/books/review/scientist-eo-wilson-richard-rhodes.html",
+            "uri": "nyt://article/1b79e388-5d31-530a-b0b1-7a1f5a5659e6",
+            "byline": "By Andrea Wulf",
+            "item_type": "Article",
+            "updated_date": "2021-11-10T13:48:45-05:00",
+            "created_date": "2021-11-10T10:45:14-05:00",
+            "published_date": "2021-11-10T10:45:14-05:00",
+            "material_type_facet": "",
+            "kicker": "Nonfiction",
+            "des_facet": [
+                "Books and Literature",
+                "Science and Technology",
+                "Endangered and Extinct Species",
+                "Biology and Biochemistry",
+                "Biodiversity",
+                "Scientist: E O Wilson: A Life in Nature (Book)"
+            ],
+            "org_facet": [],
+            "per_facet": ["Wilson, Edmund O", "Rhodes, Richard"],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/09/obituaries/09Wulf-Wilson/merlin_196897467_bb88e45b-8a29-4f4e-9727-eebbf23aa1a6-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "E.O. Wilson is a scientist who celebrates the wonder of nature. He popularized the term “biophilia,” defining it as the love for the natural world and “‘the rich, natural pleasure that comes from being surrounded by living organisms.”",
+                    "copyright": "Gretchen Ertl/Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/3F1Iljf"
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Pfizer Asks F.D.A. to Expand Booster Eligibility to All Adults",
+            "abstract": "In a turnaround, the agency is expected to grant the request before the winter holiday season, giving access to all 181 million fully vaccinated people.",
+            "url": "https://www.nytimes.com/2021/11/09/health/pfizer-booster-eligibility-adults.html",
+            "uri": "nyt://article/c0db0273-460f-5e48-918c-e2f424024519",
+            "byline": "By Sharon LaFraniere",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T15:50:13-05:00",
+            "created_date": "2021-11-09T19:17:25-05:00",
+            "published_date": "2021-11-09T19:17:25-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Vaccination and Immunization",
+                "Coronavirus (2019-nCoV)",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Pfizer Inc",
+                "BioNTech SE",
+                "Moderna Inc",
+                "Food and Drug Administration"
+            ],
+            "per_facet": [],
+            "geo_facet": ["United States"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/09/us/politics/09dc-booster/merlin_195437217_582d890d-c446-435d-81d6-d5b785189926-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A 78-year-old man received a booster shot in the Bronx in September. The Biden administration has been eager to offer extra shots widely since August.",
+                    "copyright": "Dave Sanders for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3C0XIqk"
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "6 Automakers and 30 Countries Say They’ll Phase Out Gasoline Car Sales",
+            "abstract": "Ford, G.M. and Mercedes agreed to work toward selling only zero-emissions vehicles by 2040. But Toyota, Volkswagen and Nissan-Renault did not join the pledge.",
+            "url": "https://www.nytimes.com/2021/11/09/climate/cars-zero-emissions-cop26.html",
+            "uri": "nyt://article/6453d026-9cfb-5427-8c89-cb6ab6ce3899",
+            "byline": "By Brad Plumer and Hiroko Tabuchi",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T11:08:47-05:00",
+            "created_date": "2021-11-09T19:15:25-05:00",
+            "published_date": "2021-11-09T19:15:25-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Global Warming",
+                "Greenhouse Gas Emissions",
+                "Automobiles",
+                "Fuel Emissions (Transportation)",
+                "Electric and Hybrid Vehicles",
+                "Air Pollution",
+                "United Nations Framework Convention on Climate Change"
+            ],
+            "org_facet": ["Ford Motor Co"],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/09/multimedia/09CLI-CARS/09CLI-CARS-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1376,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An all-electric Ford F-150 Lightning truck prototype in Dearborn, Mich., in September.",
+                    "copyright": "Rebecca Cook/Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/3C53eIu"
+        },
+        {
+            "section": "well",
+            "subsection": "mind",
+            "title": "The Quiet Scientific Revolution That May Solve Chronic Pain",
+            "abstract": "New science is rewriting the book on chronic pain — and may make treatment more accessible",
+            "url": "https://www.nytimes.com/2021/11/09/well/mind/glial-cells-chronic-pain-treatment.html",
+            "uri": "nyt://article/7712a5e4-6975-59a6-810f-ee2b0b669825",
+            "byline": "By David Dobbs",
+            "item_type": "Article",
+            "updated_date": "2021-11-11T15:32:12-05:00",
+            "created_date": "2021-11-09T17:05:49-05:00",
+            "published_date": "2021-11-09T17:05:49-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Pain",
+                "Chronic Condition (Health)",
+                "Research",
+                "Nerves and Nervous System",
+                "Content Type: Service",
+                "Sports Injuries"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/04/well/04_pain_package_promo/04_pain_package_promo-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Justin J Wee for The New York Times. Prop stylist: Caroline Dorn.",
+                    "copyright": "Justin J Wee for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3ow5B2z"
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Oklahoma Supreme Court Throws Out $465 Million Opioid Ruling Against J.&J.",
+            "abstract": "The 5-1 decision is a setback for those who are fighting to hold big drug makers accountable for the opioid epidemic.",
+            "url": "https://www.nytimes.com/2021/11/09/health/oklahoma-supreme-court-johnson-johnson-opioids.html",
+            "uri": "nyt://article/dce640e6-9402-51b3-914a-0cff212470c4",
+            "byline": "By Jan Hoffman",
+            "item_type": "Article",
+            "updated_date": "2021-11-10T11:48:24-05:00",
+            "created_date": "2021-11-09T15:37:21-05:00",
+            "published_date": "2021-11-09T15:37:21-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Drugs (Pharmaceuticals)",
+                "Opioids and Opiates",
+                "Suits and Litigation (Civil)",
+                "your-feed-healthcare",
+                "Compensation for Damages (Law)",
+                "Drug Abuse and Traffic",
+                "Decisions and Verdicts"
+            ],
+            "org_facet": ["Janssen Pharmaceutica", "Johnson & Johnson"],
+            "per_facet": [],
+            "geo_facet": ["Oklahoma"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/09/science/09opioids/merlin_164472159_b98aec9d-ac68-4e6d-bc6e-2c34546c1ac6-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Judge Thad Balkman, who presided over the Johnson & Johnson trial, was overruled by the Oklahoma Supreme Court on Tuesday.",
+                    "copyright": "Sue Ogrocki/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3F2aff2"
+        },
+        {
+            "section": "science",
+            "subsection": "",
+            "title": "NASA Moves Moon Landing Deadline Back to 2025",
+            "abstract": "The space agency acknowledged that it cannot return astronauts to the lunar surface by 2024, a timeline set under President Trump.",
+            "url": "https://www.nytimes.com/2021/11/09/science/nasa-moon-2025.html",
+            "uri": "nyt://article/0bb61b89-b94e-5b17-b4a9-752e536779fb",
+            "byline": "By Joey Roulette",
+            "item_type": "Article",
+            "updated_date": "2021-11-10T00:06:07-05:00",
+            "created_date": "2021-11-09T15:24:52-05:00",
+            "published_date": "2021-11-09T15:24:52-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Moon",
+                "Rocket Science and Propulsion",
+                "United States Politics and Government",
+                "Private Spaceflight",
+                "Space and Astronomy"
+            ],
+            "org_facet": [
+                "National Aeronautics and Space Administration",
+                "Space Exploration Technologies Corp"
+            ],
+            "per_facet": ["Nelson, Bill (1942- )"],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/09/science/09moon/09moon-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1367,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Orion spacecraft, part of NASA’s Artemis mission which aims to fly to the moon, in the vehicle assembly building at Kennedy Space Center in Florida last month.",
+                    "copyright": "Frank Micheaux/NASA, via EPA, via Shutterstock"
+                }
+            ],
+            "short_url": "https://nyti.ms/3D3De1o"
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Moderna and U.S. at Odds Over Vaccine Patent Rights",
+            "abstract": "Moderna’s patent application names several employees as the sole inventors of a crucial component of its coronavirus vaccine, excluding three government scientists.",
+            "url": "https://www.nytimes.com/2021/11/09/us/moderna-vaccine-patent.html",
+            "uri": "nyt://article/f3315c92-91ee-5d37-878f-735e877a09b1",
+            "byline": "By Sheryl Gay Stolberg and Rebecca Robbins",
+            "item_type": "Article",
+            "updated_date": "2021-11-11T18:04:21-05:00",
+            "created_date": "2021-11-09T14:32:00-05:00",
+            "published_date": "2021-11-09T14:32:00-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Inventions and Patents",
+                "Vaccination and Immunization",
+                "Coronavirus (2019-nCoV)",
+                "Research",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Moderna Inc",
+                "National Institutes of Health",
+                "Patent and Trademark Office (US)"
+            ],
+            "per_facet": [
+                "Bancel, Stephane",
+                "Graham, Barney S (1953- )",
+                "Mascola, John R",
+                "Corbett, Kizzmekia S"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/09/us/politics/09dc-patent-2/merlin_183589887_31781458-c515-4abd-8f15-05b311eb139d-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Dr. Barney Graham, left, and his colleague at the time, Dr. Kizzmekia Corbett, right, explaining the role of spike proteins to President Biden at the National Institutes of Health in Bethesda, Md., in February.",
+                    "copyright": "Pete Marovich for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3bZgzrn"
+        }
+    ]
+}

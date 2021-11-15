@@ -1,0 +1,1297 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2021 The New York Times Company. All Rights Reserved.",
+    "section": "World News",
+    "last_updated": "2021-11-13T12:07:48-05:00",
+    "num_results": 36,
+    "results": [
+        {
+            "section": "world",
+            "subsection": "canada",
+            "title": "Urbanites Flock to Atlantic Canada as Pandemic Blunts Cities’ Appeal",
+            "abstract": "As housing prices soar in big cities, the country’s eastern provinces are experiencing a surge in migration. Newcomers are being welcomed, but some locals are wary.",
+            "url": "https://www.nytimes.com/2021/11/13/world/canada/newfoundland-migrants.html",
+            "uri": "nyt://article/6a0fe01f-097e-57b3-ac8b-8cfbf2b4ea42",
+            "byline": "By Dan Bilefsky",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T14:28:46-05:00",
+            "created_date": "2021-11-13T05:00:14-05:00",
+            "published_date": "2021-11-13T05:00:14-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Real Estate and Housing (Residential)",
+                "Coronavirus (2019-nCoV)",
+                "Rural Areas"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": ["Canada", "Newfoundland (Canada)"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/10/world/00Newfoundland/00Newfoundland-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Houses along the coastline in Bonavista, Newfoundland. Young professionals from across Canada are pouring in to the region.",
+                    "copyright": "Chris Donovan for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3F73VTA"
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "Migrants Say Belarusians Took Them to E.U. Border and Supplied Wire Cutters",
+            "abstract": "Iraqi Kurds and other migrants said they were fleeing despair at home, but Belarus encouraged them, offering visas and helping them get to the border.",
+            "url": "https://www.nytimes.com/2021/11/13/world/middleeast/belarus-migrants-iraq-kurds.html",
+            "uri": "nyt://article/f60823cd-701b-580b-9a30-a8d03433a3e0",
+            "byline": "By Jane Arraf and Elian Peltier",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T11:26:14-05:00",
+            "created_date": "2021-11-13T05:19:39-05:00",
+            "published_date": "2021-11-13T05:19:39-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Middle East and Africa Migrant Crisis",
+                "Defense and Military Forces",
+                "Illegal Immigration",
+                "Immigration and Emigration",
+                "Smuggling",
+                "Border Barriers",
+                "Embargoes and Sanctions",
+                "Kurds"
+            ],
+            "org_facet": ["European Union"],
+            "per_facet": ["Lukashenko, Aleksandr G"],
+            "geo_facet": [
+                "Belarus",
+                "Dubai (United Arab Emirates)",
+                "Erbil (Iraq)",
+                "Europe",
+                "Iraq",
+                "Kurdistan",
+                "Latvia",
+                "Lithuania",
+                "Middle East",
+                "Minsk (Belarus)",
+                "Poland"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/13/world/13iraq-belarus01/merlin_197730111_a3e202bc-6ad4-4638-b3dd-8db6eb158bfa-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1536,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kamyar and Sarhang, second and third from left, were joined by friends as they picked up their visas for Belarus on Thursday at a travel agency in Sulaimaniya, Iraq.",
+                    "copyright": "Laura Boushnak for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3c5zJMc"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "For Meghan, an Image Rendered in a U.K.-U.S. Split Screen",
+            "abstract": "She has re-emerged in America as a formidable A-list celebrity and social activist. In Britain, however, Meghan remains a polarizing figure.",
+            "url": "https://www.nytimes.com/2021/11/13/world/europe/meghan-markle-uk-tabloids.html",
+            "uri": "nyt://article/d904c10d-64d8-5841-8cf8-c5e8d90f31d2",
+            "byline": "By Mark Landler",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T11:55:25-05:00",
+            "created_date": "2021-11-13T11:08:14-05:00",
+            "published_date": "2021-11-13T11:08:14-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": ["Royal Families"],
+            "org_facet": ["Sun, The (British Newspaper)"],
+            "per_facet": ["Harry, Duke of Sussex", "Markle, Meghan"],
+            "geo_facet": ["Great Britain"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/13/world/13uk-royals1/13uk-royals1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Prince Harry and Meghan Markle, the Duke and Duchess of Sussex, at a gala for veterans in New York on Wednesday.",
+                    "copyright": "Craig Ruttle/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3wH8aCi"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "From ‘Alive Among the Dead,’ to ‘Dead Among the Living’",
+            "abstract": "The trauma of the 2015 terrorist attacks in Paris was highlighted in testimony by survivors and others at a trial of 20 men accused of involvement.",
+            "url": "https://www.nytimes.com/2021/11/13/world/europe/france-2015-attacks-trial-victims.html",
+            "uri": "nyt://article/ad156697-23d8-5bea-8069-8ebab206cbba",
+            "byline": "By Aurelien Breeden",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T08:09:48-05:00",
+            "created_date": "2021-11-13T07:13:59-05:00",
+            "published_date": "2021-11-13T07:13:59-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": ["Paris Attacks (November 2015)", "Terrorism", "Grief (Emotion)"],
+            "org_facet": [
+                "Bataclan (Paris, France)",
+                "Stade de France (Paris, France)",
+                "Islamic State in Iraq and Syria (ISIS)"
+            ],
+            "per_facet": [],
+            "geo_facet": ["France", "Paris (France)"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/10/world/00france-trial-victims01/merlin_101582845_9b84a9eb-0013-4a7c-931c-7b9b0b73c0ae-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A memorial in 2015 for the victims of the terrorist attacks in Paris.",
+                    "copyright": "Tomas Munita for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3kAq0SF"
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "India Wants to Send Wheat to Ease Afghan Hunger Crisis. Pakistan Has Yet to OK Transit.",
+            "abstract": "Indian officials say Islamabad is dragging its feet on a request of transit for 50,000 tons of wheat to Afghanistan, where nine million people are on the brink of starvation.",
+            "url": "https://www.nytimes.com/2021/11/13/world/asia/india-pakistan-afghanistan-wheat.html",
+            "uri": "nyt://article/af17a930-1434-545b-8a68-7733d2cabffc",
+            "byline": "By Mujib Mashal",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T12:21:09-05:00",
+            "created_date": "2021-11-13T12:06:13-05:00",
+            "published_date": "2021-11-13T12:06:13-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Politics and Government",
+                "Afghanistan War (2001- )",
+                "Grain",
+                "Shortages",
+                "International Relations"
+            ],
+            "org_facet": ["World Food Program"],
+            "per_facet": ["Khan, Imran"],
+            "geo_facet": ["Afghanistan", "India", "Pakistan"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/13/world/13india-afghanistan01/merlin_184415379_f6a1bb38-9db8-4f9b-ab30-81dffdfb4535-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Loading grain onto a truck in February in Amritsar, in the northwestern Indian state of Punjab, near the border with Pakistan.",
+                    "copyright": "Rebecca Conway for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3c9lshB"
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "Dictator’s Son Says Daughter of Duterte Will Back Him in Philippine Election",
+            "abstract": "Ferdinand Marcos Jr., who hopes to succeed Rodrigo Duterte as president, said Sara Duterte would effectively be his running mate.",
+            "url": "https://www.nytimes.com/2021/11/13/world/asia/philippines-sara-duterte-marcos.html",
+            "uri": "nyt://article/a8e459cd-e86d-54ab-9a9a-5ab993682b96",
+            "byline": "By Sui-Lee Wee and Jason Gutierrez",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T06:19:05-05:00",
+            "created_date": "2021-11-13T02:33:37-05:00",
+            "published_date": "2021-11-13T02:33:37-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Politics and Government",
+                "International Relations",
+                "Human Rights and Human Rights Violations",
+                "United States International Relations"
+            ],
+            "org_facet": ["International Criminal Court"],
+            "per_facet": ["Duterte, Rodrigo", "Marcos, Ferdinand Jr", "Sara Duterte"],
+            "geo_facet": ["Philippines"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/world/00philippines-duterte-HFO-05/merlin_195871131_ce8620f4-f290-4a5d-a2fa-e4a2a1f64612-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ferdinand Marcos Jr., the son of the former dictator of the Philippines, after officially entering the presidential race last month.",
+                    "copyright": "Jam Sta Rosa/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3c5kdQs"
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "Deep Underground, a Chinese Miner Discovered Poetry in the Toil",
+            "abstract": "Chen Nianxi has risen to fame as a “migrant worker poet,” adding the voice of China’s often-invisible laborers to the cultural conversation.",
+            "url": "https://www.nytimes.com/2021/11/13/world/asia/china-miner-poet-chen-nianxi.html",
+            "uri": "nyt://article/24d5a4ac-b3ca-5049-b935-2225276258af",
+            "byline": "By Vivian Wang",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T03:00:09-05:00",
+            "created_date": "2021-11-13T03:00:09-05:00",
+            "published_date": "2021-11-13T03:00:09-05:00",
+            "material_type_facet": "",
+            "kicker": "The Saturday Profile",
+            "des_facet": [
+                "Poetry and Poets",
+                "Content Type: Personal Profile",
+                "Books and Literature",
+                "Mines and Mining",
+                "Migrant Labor (Non-Agriculture)"
+            ],
+            "org_facet": [],
+            "per_facet": ["Chen Nianxi"],
+            "geo_facet": ["China"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/world/12China-MinerPoet-Profile1/12China-MinerPoet-Profile1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 749,
+                    "width": 1123,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Chen Nianxi, a miner who became a poet, in a scene from the documentary film “Iron Moon.”",
+                    "copyright": "Elephant Documentaries"
+                }
+            ],
+            "short_url": "https://nyti.ms/3qv7OxH"
+        },
+        {
+            "section": "world",
+            "subsection": "africa",
+            "title": "Sudanese Security Forces Fire on Protesters as Military Tightens Grip",
+            "abstract": "At least five people were killed and several wounded as the police fired bullets and tear gas at demonstrators in Sudan’s capital, two days after the army chief signed a contentious decree.",
+            "url": "https://www.nytimes.com/2021/11/13/world/africa/sudan-protests.html",
+            "uri": "nyt://article/1e771e2f-c0c4-56fd-96cd-9412fb8c9ae9",
+            "byline": "By Declan Walsh",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T14:58:20-05:00",
+            "created_date": "2021-11-13T10:31:25-05:00",
+            "published_date": "2021-11-13T10:31:25-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Coups D'Etat and Attempted Coups D'Etat",
+                "Demonstrations, Protests and Riots",
+                "United States International Relations"
+            ],
+            "org_facet": [],
+            "per_facet": ["al-Burhan, Abdel Fattah", "Bashir, Omar Hassan Al-", "Hamdok, Abdalla"],
+            "geo_facet": ["Sudan", "Khartoum (Sudan)"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/13/world/13sudan1/13sudan1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1367,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Protesters in Port Sudan marched on Saturday against the government of  Lt. Gen. Abdel Fattah al-Burhan, who has tightened his grip on Sudan since ousting the civilian prime minister. ",
+                    "copyright": "Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3c9994T"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Migrant Crisis in Belarus Tests Putin’s Uneasy Alliance With Lukashenko",
+            "abstract": "Last year Vladimir V. Putin helped save Aleksandr G. Lukashenko’s Belarusian regime. But Russia now has an ever-more-erratic ally and risks entanglement in a dangerous crisis.",
+            "url": "https://www.nytimes.com/2021/11/12/world/europe/lukashenko-putin-belarus-russia.html",
+            "uri": "nyt://article/ce677123-6668-52c3-a690-e1889cad1b21",
+            "byline": "By Anton Troianovski",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T23:34:03-05:00",
+            "created_date": "2021-11-12T17:20:38-05:00",
+            "published_date": "2021-11-12T17:20:38-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Politics and Government",
+                "Defense and Military Forces",
+                "Middle East and Africa Migrant Crisis",
+                "Immigration and Emigration",
+                "Embargoes and Sanctions",
+                "Airlines and Airplanes"
+            ],
+            "org_facet": ["European Union"],
+            "per_facet": ["Lukashenko, Aleksandr G", "Putin, Vladimir V"],
+            "geo_facet": ["Belarus", "Russia"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/world/12lukashenko-putin-1/merlin_197734557_265d1ece-b8cf-40b6-b784-aa1fcf95d92a-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Aleksandr G. Lukashenko of Belarus and President Vladimir V. Putin of Russia in Moscow in September.",
+                    "copyright": "Mikhail Svetlov/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3kSkXgP"
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "In Border Crisis, Europe’s Unsavory Migration Deals Come Home",
+            "abstract": "Europe has long paid other nations to keep refugees away from its borders. Now, Belarus wants something, too, and has brought migrants right to Europe’s door to get it.",
+            "url": "https://www.nytimes.com/2021/11/12/world/asia/migration-eu-poland-belarus.html",
+            "uri": "nyt://article/8e7866f2-7dd8-55f0-ab69-e89e199d2a21",
+            "byline": "By Max Fisher",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T10:43:59-05:00",
+            "created_date": "2021-11-12T11:59:56-05:00",
+            "published_date": "2021-11-12T11:59:56-05:00",
+            "material_type_facet": "",
+            "kicker": "The Interpreter",
+            "des_facet": [
+                "Middle East and Africa Migrant Crisis",
+                "Refugees and Displaced Persons",
+                "Embargoes and Sanctions",
+                "Immigration and Emigration",
+                "Human Rights and Human Rights Violations",
+                "International Relations"
+            ],
+            "org_facet": ["European Union"],
+            "per_facet": ["Lukashenko, Aleksandr G"],
+            "geo_facet": ["Belarus", "Poland", "Europe"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/world/12int-belarus/12int-belarus-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A satellite image of migrants gathering at the Belarus-Poland border on Wednesday.",
+                    "copyright": "Maxar Technologies, via Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3FacmgX"
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "Ethiopian Civil War Sparks Rancorous Debate Over Immigration to Israel",
+            "abstract": "Thousands of relatives of the remnants of Ethiopian Jewry are waiting to be airlifted to Israel. For now, the Israeli government sees no urgency.",
+            "url": "https://www.nytimes.com/2021/11/12/world/middleeast/israel-ethiopia-jews-immigration.html",
+            "uri": "nyt://article/584ddd21-2525-5678-b4cf-250673eac30b",
+            "byline": "By Isabel Kershner",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T23:36:40-05:00",
+            "created_date": "2021-11-12T11:41:03-05:00",
+            "published_date": "2021-11-12T11:41:03-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": ["Jews and Judaism", "Immigration and Emigration", "Discrimination"],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": ["Ethiopia", "Israel"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/world/12ISRAEL-ETHIOPIANS01/merlin_180755772_e022d7e7-8de6-44e1-b85f-3912632dcf97-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ethiopian immigrants arriving last year in Tel Aviv. Israel has rescued thousands of Jewish Ethiopians and their families, but questions about the eligibility of new immigrants has stirred debate.",
+                    "copyright": "Amir Levy/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3qwOYpL"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "In France, Kamala Harris Searches for Role on Global Stage",
+            "abstract": "The vice president met with President Emmanuel Macron of France, skirting recent U.S.-French tensions, and immersed herself in issues like Libya and cybersecurity.",
+            "url": "https://www.nytimes.com/2021/11/12/us/politics/kamala-harris-macron-france.html",
+            "uri": "nyt://article/b40c6934-a29b-5c61-ac48-a16824d57f11",
+            "byline": "By Katie Rogers and Zolan Kanno-Youngs",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T13:44:58-05:00",
+            "created_date": "2021-11-12T17:20:16-05:00",
+            "published_date": "2021-11-12T17:20:16-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States International Relations",
+                "United States Politics and Government",
+                "Vice Presidents and Vice Presidency (US)"
+            ],
+            "org_facet": [],
+            "per_facet": ["Harris, Kamala D"],
+            "geo_facet": ["France", "Guatemala", "Singapore", "Vietnam"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/world/12harris-france-1/merlin_197728815_101635f9-345b-4bb2-9282-e7015abc026c-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Emmanuel Macron of France and Vice President Kamala Harris in Paris on Friday.",
+                    "copyright": "Sarahbeth Maney/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3c9zVdf"
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "Myanmar Court Sentences American Journalist to 11 Years",
+            "abstract": "Danny Fenster was given the toughest possible sentence on three charges, in a signal that the country’s military rulers would not bow to international pressure.",
+            "url": "https://www.nytimes.com/2021/11/12/world/asia/myanmar-danny-fenster.html",
+            "uri": "nyt://article/07923e09-6be5-5c50-901f-93f29b3f8e23",
+            "byline": "By Richard C. Paddock",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T23:38:02-05:00",
+            "created_date": "2021-11-12T01:24:02-05:00",
+            "published_date": "2021-11-12T01:24:02-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": ["Fenster, Danny"],
+            "geo_facet": ["Myanmar"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/world/12myanmar-01/merlin_193961610_837c2d6f-8750-403a-8615-bfd8acba303a-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1534,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Danny Fenster at work in Louisiana, in an undated photograph provided by his family.",
+                    "copyright": "Agence France-Presse, via Fenster Family/Afp Via Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3CabZkK"
+        },
+        {
+            "section": "world",
+            "subsection": "africa",
+            "title": "For Some South Africans, de Klerk Missed Chances for True Reconciliation",
+            "abstract": "The last white president of South Africa helped bring an end to the apartheid regime, but for many citizens, he never went far enough to disavow it. He left a video apologizing.",
+            "url": "https://www.nytimes.com/2021/11/12/world/africa/de-klerk-apartheid-south-africa.html",
+            "uri": "nyt://article/0c5fd2ce-2300-5ac0-bff3-d1fb33efb292",
+            "byline": "By Lynsey Chutel",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T13:24:28-05:00",
+            "created_date": "2021-11-12T05:33:01-05:00",
+            "published_date": "2021-11-12T05:33:01-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Politics and Government",
+                "Apartheid (Policy)",
+                "War Crimes, Genocide and Crimes Against Humanity"
+            ],
+            "org_facet": ["African National Congress"],
+            "per_facet": ["de Klerk, F W", "Malema, Julius S", "Mandela, Nelson"],
+            "geo_facet": ["South Africa"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/11/world/11deklerk-legacy-1/11deklerk-legacy-1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "F.W. de Klerk, the former president of South Africa, released a posthumous video message. “I without qualification apologize for the pain and hurt and the indignity and the damage that apartheid has done to Black, brown and Indians in South Africa.”",
+                    "copyright": "F. W. de Klerk Foundation, via Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3wGzosT"
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "How the U.S. Hid an Airstrike That Killed Dozens of Civilians in Syria",
+            "abstract": "The military never conducted an independent investigation into a 2019 bombing on the last bastion of the Islamic State, despite concerns about a secretive commando force.",
+            "url": "https://www.nytimes.com/2021/11/13/us/us-airstrikes-civilian-deaths.html",
+            "uri": "nyt://article/ca657a0f-ddb2-58c1-8a9c-dd82da339c9d",
+            "byline": "By Dave Philipps and Eric Schmitt",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T13:33:06-05:00",
+            "created_date": "2021-11-13T12:57:29-05:00",
+            "published_date": "2021-11-13T12:57:29-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Civilian Casualties",
+                "Drones (Pilotless Planes)",
+                "United States Defense and Military Forces",
+                "War and Armed Conflicts",
+                "Terrorism",
+                "Classified Information and State Secrets",
+                "War Crimes, Genocide and Crimes Against Humanity",
+                "Inspectors General",
+                "Human Rights and Human Rights Violations"
+            ],
+            "org_facet": ["Islamic State in Iraq and Syria (ISIS)"],
+            "per_facet": [],
+            "geo_facet": ["Syria"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/14/us/politics/13airstrike-jump-1-alt/13airstrike-jump-1-alt-superJumbo-v2.jpg",
+                    "format": "superJumbo",
+                    "height": 1353,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Fleeing heavy bombardment in Baghuz, Syria — the Islamic State’s last holdout — on March 18, 2019.",
+                    "copyright": "Giuseppe Cacace/Agence France-Presse &mdash; Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3DlbMwA"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Portugal bars companies from contacting employees off hours and requires other protections for remote work.",
+            "abstract": "A new law, passed on Friday and in effect this weekend, is one of the world’s boldest efforts to regulate the remote work that the pandemic forced on many in the industrialized world.",
+            "url": "https://www.nytimes.com/2021/11/13/world/europe/portugal-remote-work-law-pandemic.html",
+            "uri": "nyt://article/75e02a3b-a7e1-52c9-9117-b1a7e755f84e",
+            "byline": "By Raphael Minder",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T10:42:54-05:00",
+            "created_date": "2021-11-13T10:33:47-05:00",
+            "published_date": "2021-11-13T10:33:47-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Work-Life Balance",
+                "Nomadic People",
+                "Law and Legislation"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": ["Portugal"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/13/world/13virus-briefing-portugal-work-rules/merlin_197379666_ac3a7ef8-5bb6-4112-a112-4634ec1ed05c-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Commuters at a subway station in Lisbon last week.",
+                    "copyright": "Armando Franca/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3neE4mN"
+        },
+        {
+            "section": "world",
+            "subsection": "canada",
+            "title": "As Hackers Take Down Newfoundland’s Health Care System, Silence Descends",
+            "abstract": "The province has said little about a cyberattack that delayed or canceled medical procedures and leaked personal information.",
+            "url": "https://www.nytimes.com/2021/11/12/world/canada/newfoundland-cyberattack.html",
+            "uri": "nyt://article/859c3d45-2dcb-56d0-ae06-7c3a3e0bbb3a",
+            "byline": "By Ian Austen",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T21:11:07-05:00",
+            "created_date": "2021-11-12T21:11:07-05:00",
+            "published_date": "2021-11-12T21:11:07-05:00",
+            "material_type_facet": "",
+            "kicker": "Canada Letter",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/world/12CANDA-LETTER-BONAVISTA/merlin_197249910_aac42940-f407-4086-99ad-ae63e36a9238-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The residents of Bonavista, like everyone in Newfoundland and Labrador, are experiencing health care disruptions.",
+                    "copyright": "Chris Donovan for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3F6Bt48"
+        },
+        {
+            "section": "world",
+            "subsection": "americas",
+            "title": "Oklahoma’s governor puts an opponent of vaccine mandates in charge of the National Guard.",
+            "abstract": "The governor, Kevin Stitt, is one of a number of Republican state officials across the country who has been fighting against President Biden’s vaccine mandates.",
+            "url": "https://www.nytimes.com/2021/11/12/world/americas/oklahoma-kevin-sitt-vaccine-mandate-national-guard.html",
+            "uri": "nyt://article/aa3909aa-5d4d-59ff-8841-9535f6ca1407",
+            "byline": "By Ben Fenwick",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T09:44:29-05:00",
+            "created_date": "2021-11-12T19:36:34-05:00",
+            "published_date": "2021-11-12T19:36:34-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": ["Coronavirus (2019-nCoV)", "Vaccination and Immunization"],
+            "org_facet": ["National Guard"],
+            "per_facet": ["Stitt, Kevin"],
+            "geo_facet": ["Oklahoma"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/multimedia/12virus-briefing-oklahoma-natguard1/12virus-briefing-oklahoma-natguard1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Members of the Oklahoma National Guard were deployed to the U.S. Capitol in Washington in January.",
+                    "copyright": "Erin Schaff/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3kzBdD8"
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "2 Ivory Smugglers Captured in International Operation, U.S. Says",
+            "abstract": "The men were captured by relying on DNA sampling from a previously seized ivory haul, which helped experts pinpoint the location of poached elephants.",
+            "url": "https://www.nytimes.com/2021/11/12/us/ivory-rhino-congo-trafficking.html",
+            "uri": "nyt://article/f3f88b8c-9718-5e16-b895-32b9365c5f22",
+            "byline": "By Christine Chung",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T19:15:38-05:00",
+            "created_date": "2021-11-12T17:49:07-05:00",
+            "published_date": "2021-11-12T17:49:07-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Wildlife Trade and Poaching",
+                "Elephants",
+                "Ivory",
+                "Endangered and Extinct Species",
+                "Animals",
+                "Money Laundering",
+                "Smuggling",
+                "Rhinoceroses",
+                "Pangolins"
+            ],
+            "org_facet": ["Homeland Security Department"],
+            "per_facet": [],
+            "geo_facet": ["Congo, Democratic Republic of (Congo-Kinshasa)", "Africa"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/lens/12xp-ivory-photo/12xp-ivory-photo-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Some of the $3.5 million worth of ivory and rhino horn seized in the operation.",
+                    "copyright": "Homeland Security Investigations Pacific Northwest"
+                }
+            ],
+            "short_url": "https://nyti.ms/30ifWGG"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Threats and troop movements ramp up a European stalemate with Cold War echoes.",
+            "abstract": "On both sides of the Belarus-Poland border, hyperbole and military exercises have raised fears of an armed conflict in Europe.",
+            "url": "https://www.nytimes.com/2021/11/12/world/europe/threats-troop-buildup-war.html",
+            "uri": "nyt://article/2f1e4cc6-2025-505b-a184-182a30933992",
+            "byline": "By Dan Bilefsky",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T10:50:43-05:00",
+            "created_date": "2021-11-12T15:10:54-05:00",
+            "published_date": "2021-11-12T15:10:54-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": ["Immigration and Emigration", "Cold War Era"],
+            "org_facet": ["North Atlantic Treaty Organization", "European Union"],
+            "per_facet": ["Lukashenko, Aleksandr G", "Morawiecki, Mateusz"],
+            "geo_facet": ["Belarus", "Poland"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/world/12poland-belarus-border-ColdWarRedux-1/12poland-belarus-border-ColdWarRedux-1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1364,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An image from video released by Belarus’s Defense Ministry on Friday showing what it said were Russian paratroopers during joint military exercises near the border with Poland.",
+                    "copyright": "Belarusian Defense Ministry Press Service, via Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3olTOnf"
+        },
+        {
+            "section": "world",
+            "subsection": "",
+            "title": "California broadens access to Covid booster shots.",
+            "abstract": "Officials are seeking to avert a winter surge; last year, so many Covid patients died that officials were forced to deploy mobile morgues.",
+            "url": "https://www.nytimes.com/2021/11/12/world/california-covid-booster.html",
+            "uri": "nyt://article/e068dd8d-1155-5c9c-a645-d2ce3eef8402",
+            "byline": "By John Yoon and Jill Cowan",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T15:57:35-05:00",
+            "created_date": "2021-11-12T12:27:20-05:00",
+            "published_date": "2021-11-12T12:27:20-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": ["Coronavirus (2019-nCoV)", "Vaccination and Immunization"],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": ["California"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/multimedia/12virus-briefing-california-booster1/12virus-briefing-california-booster1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A pharmacist administering a booster shot at a Safeway in San Rafael, Calif., last month. California’s new policy allows all adults in the state to receive booster shots.",
+                    "copyright": "Justin Sullivan/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3n9pD34"
+        },
+        {
+            "section": "arts",
+            "subsection": "design",
+            "title": "‘Be Nice to Tourists’: New York’s Arts Scene Needs International Visitors",
+            "abstract": "The United States now allows vaccinated international travelers into the country. It’s welcome news for arts institutions that lost revenue and cut jobs during the pandemic.",
+            "url": "https://www.nytimes.com/2021/11/12/arts/design/new-york-international-tourists.html",
+            "uri": "nyt://article/193cdb15-a47b-577c-a6da-3711e2d4538b",
+            "byline": "By Matt Stevens",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T00:12:39-05:00",
+            "created_date": "2021-11-12T12:00:12-05:00",
+            "published_date": "2021-11-12T12:00:12-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Museums",
+                "Travel and Vacations",
+                "Art",
+                "Theater",
+                "Coronavirus Reopenings",
+                "Advertising and Marketing"
+            ],
+            "org_facet": ["Metropolitan Museum of Art", "NYC & CO"],
+            "per_facet": [],
+            "geo_facet": ["New York City"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/13/arts/12broadway-visitors1/merlin_194763303_13d71fb8-1ae0-4a13-8451-f6d3edffa21c-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "About 70 percent of the tickets at the TKTS booth in Times Square are bought by tourists and roughly half of those sales are to foreign travelers.",
+                    "copyright": "Karsten Moran for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3qwREUl"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Julian Assange to Wed in Prison in Britain",
+            "abstract": "The WikiLeaks founder, who is battling extradition to the United States on espionage charges, has been granted permission to marry Stella Moris in the London prison where he has been held since 2019.",
+            "url": "https://www.nytimes.com/2021/11/12/world/europe/julian-assange-stella-moris-marriage.html",
+            "uri": "nyt://article/65647fcc-5d1c-5ba4-b3fb-0a8d36f2760d",
+            "byline": "By Cora Engelbrecht",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T23:37:14-05:00",
+            "created_date": "2021-11-12T10:48:20-05:00",
+            "published_date": "2021-11-12T10:48:20-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Extradition",
+                "Weddings and Engagements",
+                "Classified Information and State Secrets"
+            ],
+            "org_facet": ["WikiLeaks"],
+            "per_facet": ["Assange, Julian P", "Moris, Stella"],
+            "geo_facet": ["England", "United States"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/world/12uk-assange-01/merlin_189523806_78a99247-b8b1-476e-a0ba-7c763d11ed29-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Stella Moris with her children Gabriel, left, and Max in June outside Belmarsh Prison in London after a visit with Julian Assange, her partner and their father.",
+                    "copyright": "Dominic Lipinski/Press Association, via Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3c2H5jE"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Germany will again offer free Covid tests to all adults.",
+            "abstract": "Officials hope that identifying infections earlier can help stop a recent surge in cases.",
+            "url": "https://www.nytimes.com/2021/11/12/world/europe/covid-germany-tests.html",
+            "uri": "nyt://article/7b1c6d4a-e6f6-578e-aeae-76be6977ea44",
+            "byline": "By Christopher F. Schuetze",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T12:40:16-05:00",
+            "created_date": "2021-11-12T08:17:12-05:00",
+            "published_date": "2021-11-12T08:17:12-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Disease Rates",
+                "Vaccination and Immunization"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": ["Germany"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/12/11/multimedia/11virus-briefing-germany-unvaccinated-wave1/11virus-briefing-germany-unvaccinated-wave1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1368,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Costumed revelers celebrating at carnival festivities in Cologne, Germany, on Thursday.",
+                    "copyright": "Friedemann Vogel/EPA, via Shutterstock"
+                }
+            ],
+            "short_url": "https://nyti.ms/30olP5E"
+        },
+        {
+            "section": "arts",
+            "subsection": "design",
+            "title": "The Show Goes On, Even After China Tried to Shut It Down",
+            "abstract": "An Italian city rejected a request from the Chinese Embassy in Rome to cancel an exhibition by Badiucao, an artist who has been described as the Chinese Banksy.",
+            "url": "https://www.nytimes.com/2021/11/12/arts/design/badiucao-brescia-china.html",
+            "uri": "nyt://article/e700a5ce-84da-54f2-869f-92383c634d81",
+            "byline": "By Elisabetta Povoledo",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T00:39:03-05:00",
+            "created_date": "2021-11-12T07:58:51-05:00",
+            "published_date": "2021-11-12T07:58:51-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": ["Art", "Censorship", "Freedom of Speech and Expression"],
+            "org_facet": ["Santa Giulia Museum"],
+            "per_facet": ["Badiucao (Artist)"],
+            "geo_facet": ["China", "Italy"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/arts/12chinese-banksy1/merlin_197670096_d6935145-64a4-44c3-b96b-83fc6c01e44b-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Badiucao in front of one of his works, “Carrie Lam,” a portrait of Hong Kong’s chief executive, at Santa Giulia Museum in Brescia, Italy.",
+                    "copyright": "Alessandro Grassani for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Hh2N1B"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Many migrants in Belarus flew there. Airlines on Friday moved to end that practice.",
+            "abstract": "Some airlines have agreed to stop taking Iraqi, Syrian and Yemeni citizens to Minsk, which the E.U. hopes will stem the flow of migrants to the bloc’s borders.",
+            "url": "https://www.nytimes.com/2021/11/12/world/europe/migrant-flights-belarus.html",
+            "uri": "nyt://article/00d497e1-4ae6-5c58-b370-eead54b51394",
+            "byline": "By Richard Pérez-Peña and Carlotta Gall",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T03:52:46-05:00",
+            "created_date": "2021-11-12T07:49:18-05:00",
+            "published_date": "2021-11-12T07:49:18-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": ["Middle East and Africa Migrant Crisis", "Airlines and Airplanes"],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": ["Belarus", "Poland"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/world/12poland-belarus-border-turkish-airlines/merlin_153140490_fe0c1315-ebe5-4fc8-add9-c4b1ac6261cf-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1302,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Turkish Airlines plane taking off from Istanbul in 2019.",
+                    "copyright": "Umit Bektas/Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/3olxiuN"
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "Aiming for ‘zero Covid,’ China focuses on frozen food, children’s clothes and, soon, the Olympics.",
+            "abstract": "The Communist Party is making broad efforts to stamp out the disease entirely, but the measures come with costs.",
+            "url": "https://www.nytimes.com/2021/11/12/world/asia/china-zero-covid.html",
+            "uri": "nyt://article/a489c730-4ebb-57eb-a6de-a1f79d159052",
+            "byline": "By Alexandra Stevenson and Cao Li",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T16:01:08-05:00",
+            "created_date": "2021-11-12T06:26:30-05:00",
+            "published_date": "2021-11-12T06:26:30-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Disease Rates",
+                "Politics and Government",
+                "Olympic Games (2022)",
+                "Frozen Foods"
+            ],
+            "org_facet": ["Communist Party of China"],
+            "per_facet": [],
+            "geo_facet": ["China"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/world/12virus-briefing-china-covid-01/12virus-briefing-china-covid-01-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Lining up for coronavirus testing amid the emergence of local cases in Liaoning Province, China, this week.",
+                    "copyright": "China Daily/Via Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/3kvPtfU"
+        },
+        {
+            "section": "briefing",
+            "subsection": "",
+            "title": "How Does This End?",
+            "abstract": "Thinking about Covid and normalcy.",
+            "url": "https://www.nytimes.com/2021/11/12/briefing/when-will-covid-end.html",
+            "uri": "nyt://article/e6d1e0d2-69f1-513a-90fb-4a1706b496f9",
+            "byline": "By David Leonhardt",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T12:31:52-05:00",
+            "created_date": "2021-11-12T06:10:39-05:00",
+            "published_date": "2021-11-12T06:10:39-05:00",
+            "material_type_facet": "",
+            "kicker": "The Morning Newsletter",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/multimedia/12ambriefing-promo/12ambriefing-covid-superJumbo-v2.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Cable car riders in San Francisco.",
+                    "copyright": "Jim Wilson/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/30gjV7b"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "The Netherlands imposes a partial lockdown for all, as European cases and deaths rise.",
+            "abstract": "The Dutch lockdown does not single out those who are unvaccinated. The country is experiencing rising case numbers amid a fourth wave of infections.",
+            "url": "https://www.nytimes.com/2021/11/12/world/europe/covid-netherlands-lockdown.html",
+            "uri": "nyt://article/c9f1874f-e604-56c1-8000-8f59792fcbdf",
+            "byline": "By Christopher F. Schuetze",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T17:13:51-05:00",
+            "created_date": "2021-11-12T06:04:42-05:00",
+            "published_date": "2021-11-12T06:04:42-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Disease Rates",
+                "Coronavirus (2019-nCoV)",
+                "Vaccination and Immunization"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": ["Netherlands"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/world/12virus-briefing-netherlands/merlin_197417955_13d5d8f5-8f1a-421a-af3f-59dbe1f81e50-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1360,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Shoppers wearing face masks in Amsterdam this month.",
+                    "copyright": "Ramon Van Flymen/EPA, via Shutterstock"
+                }
+            ],
+            "short_url": "https://nyti.ms/30h0IBE"
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "Hong Kong Broadcaster’s Swift Turn From Maverick Voice to Official Mouthpiece",
+            "abstract": "RTHK has often set the news agenda with its aggressive coverage of the city. But a Beijing clampdown has changed that, with pro-China coverage filling the void.",
+            "url": "https://www.nytimes.com/2021/11/12/world/asia/hong-kong-rthk-crackdown-china.html",
+            "uri": "nyt://article/0eea4fc8-e95e-539e-9dd4-18e534b0e7ae",
+            "byline": "By Vivian Wang",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T22:40:49-05:00",
+            "created_date": "2021-11-12T05:00:31-05:00",
+            "published_date": "2021-11-12T05:00:31-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": ["Freedom of the Press"],
+            "org_facet": [
+                "Radio Television Hong Kong",
+                "China Central Television",
+                "Communist Party of China"
+            ],
+            "per_facet": ["Lam, Carrie (1957- )"],
+            "geo_facet": ["Hong Kong"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/04/world/00hongkong-rthk1/merlin_173650626_0c290383-0c23-432a-b204-e2450a1b1907-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The set of the television show “Headliner” at Radio Television Hong Kong last year. RTHK executives suspended the show after the Hong Kong police complained about an episode that mocked the force.",
+                    "copyright": "Lam Yik Fei for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2YFMw51"
+        },
+        {
+            "section": "world",
+            "subsection": "australia",
+            "title": "Migration and Experimentation: What Led to Australia’s Coffee Culture",
+            "abstract": "When Italian migrants arrived after World War II, they helped develop a coffee scene that many now regard as the best in the world.",
+            "url": "https://www.nytimes.com/2021/11/12/world/australia/migration-and-experimentation-what-led-to-australias-coffee-culture.html",
+            "uri": "nyt://article/e0b09eb1-d8e0-5742-a70b-bd7fc6b19ede",
+            "byline": "By Yan Zhuang",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T11:44:11-05:00",
+            "created_date": "2021-11-12T01:59:54-05:00",
+            "published_date": "2021-11-12T01:59:54-05:00",
+            "material_type_facet": "",
+            "kicker": "Letter 233",
+            "des_facet": ["Coffee", "Immigration and Emigration"],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": ["Australia", "Italy"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/world/12australialetter233-01/merlin_153710745_4b1ac11a-efcf-41d8-b19d-6e0fcc258392-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Seven Seeds, in Melbourne.",
+                    "copyright": "Asanka Brendon Ratnayake for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3FcyyqC"
+        },
+        {
+            "section": "briefing",
+            "subsection": "",
+            "title": "Your Friday Briefing",
+            "abstract": "Migrants in peril at Belarus-Poland border.",
+            "url": "https://www.nytimes.com/2021/11/11/briefing/belarus-poland-border-europe-covid-deaths.html",
+            "uri": "nyt://article/f74395d7-6dab-5893-a6e9-ff52e38a6a47",
+            "byline": "By Melina Delkic",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T02:48:15-05:00",
+            "created_date": "2021-11-11T22:54:22-05:00",
+            "published_date": "2021-11-11T22:54:22-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/12/09/world/12ambrieifng-europe-belarus-poland-SUB-copy/merlin_197636574_34210fc1-698f-44d4-b78d-73ee7a4ea2f4-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Migrants in the Grodno region of Belarus, near the Polish border.",
+                    "copyright": "EPA, via Shutterstock"
+                }
+            ],
+            "short_url": "https://nyti.ms/3c5qxHI"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Migrants in Peril, and Raw Emotions, in a Volatile European Border Standoff",
+            "abstract": "A confrontation over migrants between Belarus and Poland is growing more volatile, as nationalist fervor rises in both countries and a humanitarian disaster looms.",
+            "url": "https://www.nytimes.com/2021/11/11/world/europe/migrants-poland-belarus-lukashenko.html",
+            "uri": "nyt://article/a6a98d8f-5ccd-5d42-9999-c5bd9029c3a3",
+            "byline": "By Andrew Higgins",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T08:42:37-05:00",
+            "created_date": "2021-11-11T20:17:08-05:00",
+            "published_date": "2021-11-11T20:17:08-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Middle East and Africa Migrant Crisis",
+                "Politics and Government",
+                "Defense and Military Forces",
+                "Immigration and Emigration",
+                "International Relations"
+            ],
+            "org_facet": ["European Union"],
+            "per_facet": ["Lukashenko, Aleksandr G"],
+            "geo_facet": ["Belarus", "Poland"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/11/world/11-vid-cover-poland-migrants/merlin_197665143_dcdad44b-08eb-4d35-b6c5-e514d6fbb259-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Migrants at the Poland-Belarus border, early Thursday.",
+                    "copyright": "Maciek Nabrdalik for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3qKeYOT"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "The clash over the Belarus-Poland border crisis spills into the U.N. Security Council.",
+            "abstract": "The United States joined several countries in a statement condemning Belarus, but the Russian envoy dismissed their criticism as politically motivated hypocrisy.",
+            "url": "https://www.nytimes.com/2021/11/11/world/europe/un-security-council.html",
+            "uri": "nyt://article/f09bfa3d-63e2-5334-a995-90b741e34049",
+            "byline": "By Rick Gladstone",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T11:29:17-05:00",
+            "created_date": "2021-11-11T18:12:49-05:00",
+            "published_date": "2021-11-11T18:12:49-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": ["Immigration and Emigration"],
+            "org_facet": ["Security Council (UN)", "European Union"],
+            "per_facet": ["Lukashenko, Aleksandr G"],
+            "geo_facet": ["Belarus", "Poland", "Lithuania"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/11/world/11poland-belarus-border-UN-1/merlin_195188787_177fd809-2226-4fbe-be91-7937a012bf77-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Russian deputy ambassador to the United Nations, Dmitry Polyanskiy, during a Security Council session in September. He rejected criticism of Belarus, a Russian ally.",
+                    "copyright": "Pool photo by John Minchillo"
+                }
+            ],
+            "short_url": "https://nyti.ms/3n40U0e"
+        },
+        {
+            "section": "world",
+            "subsection": "",
+            "title": "Who Is Aleksandr G. Lukashenko? Here’s What You Need to Know.",
+            "abstract": "A migrant crisis on the border with Poland has put the Belarusian president at the center of a clash roiling Europe.",
+            "url": "https://www.nytimes.com/2021/11/11/world/who-is-aleksandr-g-lukashenko.html",
+            "uri": "nyt://article/2aa99915-064f-525d-9fe4-e408c1c19e90",
+            "byline": "By Dan Bilefsky and Andrew Higgins",
+            "item_type": "Article",
+            "updated_date": "2021-11-11T20:09:37-05:00",
+            "created_date": "2021-11-11T18:02:49-05:00",
+            "published_date": "2021-11-11T18:02:49-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Territorial Disputes",
+                "Immigration and Emigration",
+                "Middle East and Africa Migrant Crisis"
+            ],
+            "org_facet": ["European Union"],
+            "per_facet": ["Lukashenko, Aleksandr G", "Protasevich, Roman"],
+            "geo_facet": ["Belarus", "Poland"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/11/world/11Lukashenko/merlin_194442543_9a184ad6-9e3b-4f7e-8c00-b573f9c330b4-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1445,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Aleksandr G. Lukashenko of Belarus during a visit to Moscow in September. The mercurial leader has a long history of defying the West. ",
+                    "copyright": "Pool photo by Shamil Zhumatov"
+                }
+            ],
+            "short_url": "https://nyti.ms/2YByVvk"
+        },
+        {
+            "section": "briefing",
+            "subsection": "",
+            "title": "Your Friday Briefing",
+            "abstract": "China’s communists elevate Xi’s status.",
+            "url": "https://www.nytimes.com/2021/11/11/briefing/china-xi-poland-belarus-border.html",
+            "uri": "nyt://article/24bead04-bfb7-5add-9969-056b10cf2243",
+            "byline": "By Matthew Cullen",
+            "item_type": "Article",
+            "updated_date": "2021-11-11T17:06:19-05:00",
+            "created_date": "2021-11-11T17:06:19-05:00",
+            "published_date": "2021-11-11T17:06:19-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/11/world/12ambriefing-asia-promo/merlin_196010163_edcef5a6-89b6-4e85-9c82-1448704e5f4b-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "China’s elites placed Xi Jinping, left, among the country’s era-defining leaders.",
+                    "copyright": "Carlos Garcia Rawlins/Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/3C21pw4"
+        }
+    ]
+}

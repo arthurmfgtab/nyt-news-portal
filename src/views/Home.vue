@@ -1,18 +1,24 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <HelloWorld msg="Welcome to Your Vue.js + TypeScript App" />
-  </div>
+    <Spinner v-show="isLoading" />
+
+    <MainNews v-show="!isLoading" />
+    <NewsList v-show="!isLoading" />
 </template>
 
-<script lang="ts">
-import { defineComponent } from "vue";
-import HelloWorld from "@/components/HelloWorld.vue"; // @ is an alias to /src
+<script>
+import { mapState } from "vuex"
+import MainNews from "./../components/MainNews.vue"
+import NewsList from "./../components/NewsList.vue"
+import Spinner from "./../components/Spinner.vue"
 
-export default defineComponent({
-  name: "Home",
-  components: {
-    HelloWorld,
-  },
-});
+export default {
+    components: {
+        MainNews,
+        NewsList,
+        Spinner,
+    },
+    computed: {
+        ...mapState(["isLoading"]),
+    },
+}
 </script>

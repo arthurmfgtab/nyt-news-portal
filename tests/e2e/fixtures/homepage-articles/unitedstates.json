@@ -1,0 +1,1069 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2021 The New York Times Company. All Rights Reserved.",
+    "section": "U.S. News",
+    "last_updated": "2021-11-13T13:16:43-05:00",
+    "num_results": 28,
+    "results": [
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Can Self-Defense Laws Stand Up to a Country Awash in Guns?",
+            "abstract": "The Kyle Rittenhouse and Ahmaud Arbery cases raise intriguing legal questions about people who take the law into their own hands and then claim self-defense when someone dies.",
+            "url": "https://www.nytimes.com/2021/11/13/us/rittenhouse-arbery-self-defense.html",
+            "uri": "nyt://article/c6ae11ba-3562-5988-bf0e-f53165a52e6b",
+            "byline": "By Shaila Dewan",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T14:32:20-05:00",
+            "created_date": "2021-11-13T13:06:44-05:00",
+            "published_date": "2021-11-13T13:06:44-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": ["Self-Defense", "Murders, Attempted Murders and Homicides", "Vigilantes"],
+            "org_facet": [],
+            "per_facet": [
+                "Rittenhouse, Kyle",
+                "Rosenbaum, Joseph (d 2020)",
+                "Huber, Anthony (d 2020)",
+                "Grosskreutz, Gaige",
+                "Bryan, William Roddie",
+                "McMichael, Gregory (1955- )",
+                "McMichael, Travis (1986- )",
+                "Arbery, Ahmaud (1994-2020)"
+            ],
+            "geo_facet": ["Kenosha (Wis)", "Brunswick (Ga)"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/14/us/14self-defense-print1/merlin_197541627_48bb3539-3127-454b-9017-d7a3e0d9fbcd-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1612,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A detective holding the gun used by Kyle Rittenhouse last year.",
+                    "copyright": "Pool photo by Sean Krajacic"
+                }
+            ],
+            "short_url": "https://nyti.ms/3c97cFv"
+        },
+        {
+            "section": "books",
+            "subsection": "",
+            "title": "‘Alpha,’ by David Philipps: A Navy SEAL’s Behavior Worried Teammates and Changed How They Fought",
+            "abstract": "In a new book, a Times reporter details the SEALs culture that fostered Eddie Gallagher’s rise and sheds new light on the events that led to his trial (and acquittal) in a polarizing war crimes case.",
+            "url": "https://www.nytimes.com/2021/11/13/books/eddie-gallagher-alpha-excerpt.html",
+            "uri": "nyt://article/aefb2f31-a051-5c00-9573-2f72d807bb89",
+            "byline": "",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T11:43:46-05:00",
+            "created_date": "2021-11-13T05:00:12-05:00",
+            "published_date": "2021-11-13T05:00:12-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Books and Literature",
+                "United States Defense and Military Forces",
+                "War Crimes, Genocide and Crimes Against Humanity"
+            ],
+            "org_facet": ["Navy Seals", "Islamic State in Iraq and Syria (ISIS)"],
+            "per_facet": ["Gallagher, Edward (1979- )", "Philipps, David (1977- )"],
+            "geo_facet": ["Mosul (Iraq)", "Iraq"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/05/multimedia/00alpha-excerpt-01/00alpha-excerpt-01-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1513,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Navy Special Operations Chief Edward Gallagher arriving at military court at Naval Base San Diego in June 2019. Chief Gallagher, who was on trial for war crimes, was acquitted on the most serious charges.",
+                    "copyright": "KC Alfred/ZUMA Wire/Alamy Live News"
+                }
+            ],
+            "short_url": "https://nyti.ms/3kviEjy"
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Jury Must Weigh Complex Legal Questions Before Kyle Rittenhouse Verdict",
+            "abstract": "Jury deliberations, expected to start next week, will include consideration of six separate criminal counts. The jurors may be instructed to consider lesser charges as well.",
+            "url": "https://www.nytimes.com/2021/11/12/us/kyle-rittenhouse-trial-charges.html",
+            "uri": "nyt://article/65a32a34-7d75-53de-a91e-857afebe9d82",
+            "byline": "By Dan Hinkel",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T23:51:48-05:00",
+            "created_date": "2021-11-12T19:43:10-05:00",
+            "published_date": "2021-11-12T19:43:10-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Demonstrations, Protests and Riots",
+                "Murders, Attempted Murders and Homicides",
+                "Police Brutality, Misconduct and Shootings",
+                "Self-Defense"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Rittenhouse, Kyle",
+                "Blake, Jacob (August 23, 2020 Shooting)",
+                "Schroeder, Bruce E"
+            ],
+            "geo_facet": ["Kenosha (Wis)"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/13/us/13rittenhouse-count-print/merlin_197737872_984006bf-99e1-4fbc-aab8-c93f58adecec-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1274,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kyle Rittenhouse, center, watching an evidence video on Friday with his lawyer Mark Richards, right, and Judge Bruce Schroeder.",
+                    "copyright": "Pool photo by Sean Krajacic"
+                }
+            ],
+            "short_url": "https://nyti.ms/3qwVooY"
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Lawyer for Man Accused of Killing Ahmaud Arbery Draws Scrutiny",
+            "abstract": "Kevin Gough argued that the Rev. Al Sharpton’s presence in court was intimidating to the jury. “We don’t want any more Black pastors coming in here,” he said.",
+            "url": "https://www.nytimes.com/2021/11/12/us/ahmaud-arbery-trial-lawyer-kevin-gough.html",
+            "uri": "nyt://article/2a3dbecf-94f1-502b-a90f-c682c1ceb7d0",
+            "byline": "By Richard Fausset",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T11:19:26-05:00",
+            "created_date": "2021-11-12T18:28:09-05:00",
+            "published_date": "2021-11-12T18:28:09-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Legal Profession",
+                "Murders, Attempted Murders and Homicides",
+                "Discrimination",
+                "Black People"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Gough, Kevin (1962- )",
+                "Sharpton, Al",
+                "Bryan, William Roddie",
+                "Arbery, Ahmaud (1994-2020)"
+            ],
+            "geo_facet": ["Brunswick (Ga)"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/us/12arbery-lawyer-1/merlin_196860771_51e39413-ecb8-4329-9f9d-a292c21b436a-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kevin Gough is a lawyer for William Bryan, one of the three men accused of murdering Ahmaud Arbery in Georgia last year.",
+                    "copyright": "Elijah Nouvelage/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/2YGp8Em"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Flooding and Nuclear Waste Eat Away at a Tribe’s Ancestral Home",
+            "abstract": "The federal government allowed a stockpile of spent fuel on a Minnesota reservation to balloon even as a dam project whittled down the amount of livable land.",
+            "url": "https://www.nytimes.com/2021/11/13/us/politics/tribal-lands-flooding-nuclear-waste.html",
+            "uri": "nyt://article/f4467163-daa6-5557-a619-244c9f037b43",
+            "byline": "By Mark Walker",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T13:56:06-05:00",
+            "created_date": "2021-11-13T13:56:06-05:00",
+            "published_date": "2021-11-13T13:56:06-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Native Americans",
+                "Nuclear Wastes",
+                "Nuclear Energy",
+                "United States Politics and Government"
+            ],
+            "org_facet": ["Prairie Island Indian Community"],
+            "per_facet": [],
+            "geo_facet": ["Minnesota"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/14/us/politics/00DC-Nuclear-1/merlin_187349145_bc1e131b-27a2-4d9e-8738-18f7a282a86e-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The state of Minnesota and the federal government ignored warnings about potential issues from flooding and nuclear waste posed to put the Prairie Island Indian Community in danger.",
+                    "copyright": "Laylah Amatullah Barrayn for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3kwVJ7a"
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "How the U.S. Hid an Airstrike That Killed Dozens of Civilians in Syria",
+            "abstract": "The military never conducted an independent investigation into a 2019 bombing on the last bastion of the Islamic State, despite concerns about a secretive commando force.",
+            "url": "https://www.nytimes.com/2021/11/13/us/us-airstrikes-civilian-deaths.html",
+            "uri": "nyt://article/ca657a0f-ddb2-58c1-8a9c-dd82da339c9d",
+            "byline": "By Dave Philipps and Eric Schmitt",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T13:33:06-05:00",
+            "created_date": "2021-11-13T12:57:29-05:00",
+            "published_date": "2021-11-13T12:57:29-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Civilian Casualties",
+                "Drones (Pilotless Planes)",
+                "United States Defense and Military Forces",
+                "War and Armed Conflicts",
+                "Terrorism",
+                "Classified Information and State Secrets",
+                "War Crimes, Genocide and Crimes Against Humanity",
+                "Inspectors General",
+                "Human Rights and Human Rights Violations"
+            ],
+            "org_facet": ["Islamic State in Iraq and Syria (ISIS)"],
+            "per_facet": [],
+            "geo_facet": ["Syria"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/14/us/politics/13airstrike-jump-1-alt/13airstrike-jump-1-alt-superJumbo-v2.jpg",
+                    "format": "superJumbo",
+                    "height": 1353,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Fleeing heavy bombardment in Baghuz, Syria — the Islamic State’s last holdout — on March 18, 2019.",
+                    "copyright": "Giuseppe Cacace/Agence France-Presse &mdash; Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3DlbMwA"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "What’s in Chris Christie’s New Book? ",
+            "abstract": "I recently interviewed Chris Christie, who has a book coming out. Here are the most interesting parts.",
+            "url": "https://www.nytimes.com/interactive/2021/11/13/us/politics/chris-christie-book.html",
+            "uri": "nyt://interactive/1e568e93-724b-5ebe-b877-257060041642",
+            "byline": "By Maggie Haberman",
+            "item_type": "Interactive",
+            "updated_date": "2021-11-13T11:06:49-05:00",
+            "created_date": "2021-11-13T11:03:35-05:00",
+            "published_date": "2021-11-13T11:03:35-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": ["United States Politics and Government"],
+            "org_facet": ["Republican Party"],
+            "per_facet": ["Christie, Christopher J", "Trump, Donald J"],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/13/us/politics/13christie-book5/13christie-book5-superJumbo-v2.jpg",
+                    "format": "superJumbo",
+                    "height": 1152,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Caroline Brehman/EPA, via Shutterstock"
+                }
+            ],
+            "short_url": "https://nyti.ms/3qAbnTa"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Chris Christie Wants the Post-Trump G.O.P. to Move Past 2020",
+            "abstract": "In a new book and in an interview, Mr. Christie says that if the former president wants to be a positive force, “he’s got to let this other stuff go.”",
+            "url": "https://www.nytimes.com/2021/11/13/us/politics/chris-christie-book-trump.html",
+            "uri": "nyt://article/bbb1a42c-a3c1-56bf-95ba-178c1a60ad9f",
+            "byline": "By Maggie Haberman",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T13:00:28-05:00",
+            "created_date": "2021-11-13T09:00:07-05:00",
+            "published_date": "2021-11-13T09:00:07-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Presidential Election of 2020",
+                "United States Politics and Government",
+                "Voter Fraud (Election Fraud)",
+                "Rumors and Misinformation",
+                "Books and Literature",
+                "Storming of the US Capitol (Jan, 2021)",
+                "Republican Rescue: Saving the Party From Truth Deniers, Conspiracy Theorists, and the Dangerous Policies of Joe Biden (Book)"
+            ],
+            "org_facet": ["Republican Party"],
+            "per_facet": ["Christie, Christopher J", "Trump, Donald J"],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/14/us/politics/13christie-book-1/merlin_177705312_5b14dee8-c34b-435d-9928-b05824a0f198-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Chris Christie says his new book is not about Donald J. Trump, but “about where we go from here and why it is important for us to let go of the past.”",
+                    "copyright": "Al Drago for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Cd9IFr"
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Doctor Charged With False Report to Summon Helicopter on Denali",
+            "abstract": "Federal prosecutors said the climber called rescuers to say that two other people on the mountain, the tallest in North America, were having a medical emergency. But it was a ruse.",
+            "url": "https://www.nytimes.com/2021/11/13/us/doctor-denali-false-report-helicopter.html",
+            "uri": "nyt://article/0fd13fd2-2a2a-5bbb-a630-7764d6b6678d",
+            "byline": "By Amanda Holpuch",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T09:00:05-05:00",
+            "created_date": "2021-11-13T09:00:05-05:00",
+            "published_date": "2021-11-13T09:00:05-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Mountaineering",
+                "Rescues",
+                "Parks and Other Recreation Areas",
+                "Helicopters"
+            ],
+            "org_facet": ["National Park Service", "Anchorage Daily News"],
+            "per_facet": [],
+            "geo_facet": ["Alaska", "North America", "United States", "Utah"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/us/12xp-denali1/12xp-denali1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Denali park rangers warned they had seen “a disturbing amount of overconfidence paired with inexperience” in the first month of the mountain’s 2021 climbing season.",
+                    "copyright": "Becky Bohrer/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3DfMG1N"
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Man Pardoned After Spending 24 Years in Prison for Murder",
+            "abstract": "The pardon came after a North Carolina judge vacated the conviction of Montoyae Dontae Sharpe in 2019, ruling that a key witness had “entirely made up” her testimony.",
+            "url": "https://www.nytimes.com/2021/11/12/us/pardon-north-carolina-compensation.html",
+            "uri": "nyt://article/595c2ebb-31e6-5c42-b46e-cde80b904002",
+            "byline": "By Michael Levenson",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T21:02:12-05:00",
+            "created_date": "2021-11-12T21:02:12-05:00",
+            "published_date": "2021-11-12T21:02:12-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "False Arrests, Convictions and Imprisonments",
+                "Murders, Attempted Murders and Homicides",
+                "Amnesties, Commutations and Pardons"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Barber, William J II",
+                "Cooper, Roy A",
+                "Montoyae Dontae Sharpe",
+                "George Radcliffe",
+                "Charlene Johnson"
+            ],
+            "geo_facet": ["North Carolina"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/us/12xp-sharpe-2/merlin_159575445_d53d60ac-ec7d-4649-9285-38439940bbd7-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1335,
+                    "width": 2000,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Montoyae Dontae Sharpe in 2019 after a judge ruled he could be set free. The North Carolina governor on Friday granted Mr. Sharpe a pardon.",
+                    "copyright": "Deborah Griffin/The Daily Reflector, via Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/30qPqv5"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Appeals Court Extends Block on Biden’s Vaccine Mandate for Employers",
+            "abstract": "A three-judge panel of the U.S. Court of Appeals for the Fifth Circuit held that challengers were likely to succeed in their claim that the mandate was an unlawful overreach.",
+            "url": "https://www.nytimes.com/2021/11/12/us/politics/court-vaccine-mandate.html",
+            "uri": "nyt://article/cb8695ea-1a96-5baa-a64f-edda71cc14d5",
+            "byline": "By Charlie Savage",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T11:56:06-05:00",
+            "created_date": "2021-11-12T20:59:26-05:00",
+            "published_date": "2021-11-12T20:59:26-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Workplace Hazards and Violations",
+                "United States Politics and Government",
+                "Appeals Courts (US)",
+                "Vaccination and Immunization",
+                "Suits and Litigation (Civil)",
+                "Decisions and Verdicts"
+            ],
+            "org_facet": ["Occupational Safety and Health Administration"],
+            "per_facet": ["Biden, Joseph R Jr", "Engelhardt, Kurt Damian"],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/us/12dc-mandate/12dc-mandate-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A protest against vaccine mandates this week in San Francisco.",
+                    "copyright": "Justin Sullivan/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/31YXnIv"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Project Veritas Tells Judge It Was Assured Biden Diary Was Legally Obtained",
+            "abstract": "But a search warrant in the case suggests the Justice Department believes the diary kept by the president’s daughter Ashley Biden was stolen.",
+            "url": "https://www.nytimes.com/2021/11/12/us/politics/project-veritas-ashley-biden-diary.html",
+            "uri": "nyt://article/8106215b-87e1-5e7b-8371-ec65f7c27169",
+            "byline": "By Michael S. Schmidt and Adam Goldman",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T12:18:51-05:00",
+            "created_date": "2021-11-12T20:07:31-05:00",
+            "published_date": "2021-11-12T20:07:31-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Diaries",
+                "Robberies and Thefts",
+                "Presidential Election of 2020",
+                "United States Politics and Government",
+                "Right-Wing Extremism and Alt-Right"
+            ],
+            "org_facet": ["Project Veritas", "Justice Department"],
+            "per_facet": [
+                "O'Keefe, James E III",
+                "Biden, Ashley (1981- )",
+                "Biden, Joseph R Jr",
+                "Torres, Analisa J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/multimedia/12DC-veritas-01/12DC-veritas-01-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Federal authorities searched the home of the Project Veritas founder, James O’Keefe, last week.",
+                    "copyright": "Jae S. Lee/The Dallas Morning News, via Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/2YI4qEf"
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Homer Plessy’s Arrest in 1892 Led to a Landmark Ruling. Now He May Get Justice.",
+            "abstract": "His legacy is tied to a Supreme Court decision that upheld the “separate but equal” doctrine, underpinning laws that segregated and disenfranchised African Americans for decades.",
+            "url": "https://www.nytimes.com/2021/11/12/us/plessy-ferguson-pardon.html",
+            "uri": "nyt://article/7097bf1c-3c88-54d6-b8a8-f88864fee65a",
+            "byline": "By Rick Rojas",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T23:54:38-05:00",
+            "created_date": "2021-11-12T17:51:11-05:00",
+            "published_date": "2021-11-12T17:51:11-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Segregation and Desegregation",
+                "Amnesties, Commutations and Pardons",
+                "Black People",
+                "Discrimination"
+            ],
+            "org_facet": [],
+            "per_facet": ["Plessy, Homer", "Ferguson, John Howard"],
+            "geo_facet": ["Louisiana"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/us/12plessy/12plessy-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A mural outside of Homer Plessy Community School in New Orleans. The Louisiana Board of Pardons voted on Friday to clear his record, nearly 130 years after he was arrested for sitting in a whites-only car on a train in Louisiana.",
+                    "copyright": "Barry Lewis/InPictures, via Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3wH19Bo"
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "2 Ivory Smugglers Captured in International Operation, U.S. Says",
+            "abstract": "The men were captured by relying on DNA sampling from a previously seized ivory haul, which helped experts pinpoint the location of poached elephants.",
+            "url": "https://www.nytimes.com/2021/11/12/us/ivory-rhino-congo-trafficking.html",
+            "uri": "nyt://article/f3f88b8c-9718-5e16-b895-32b9365c5f22",
+            "byline": "By Christine Chung",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T19:15:38-05:00",
+            "created_date": "2021-11-12T17:49:07-05:00",
+            "published_date": "2021-11-12T17:49:07-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Wildlife Trade and Poaching",
+                "Elephants",
+                "Ivory",
+                "Endangered and Extinct Species",
+                "Animals",
+                "Money Laundering",
+                "Smuggling",
+                "Rhinoceroses",
+                "Pangolins"
+            ],
+            "org_facet": ["Homeland Security Department"],
+            "per_facet": [],
+            "geo_facet": ["Congo, Democratic Republic of (Congo-Kinshasa)", "Africa"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/lens/12xp-ivory-photo/12xp-ivory-photo-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Some of the $3.5 million worth of ivory and rhino horn seized in the operation.",
+                    "copyright": "Homeland Security Investigations Pacific Northwest"
+                }
+            ],
+            "short_url": "https://nyti.ms/30ifWGG"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "In France, Kamala Harris Searches for Role on Global Stage",
+            "abstract": "The vice president met with President Emmanuel Macron of France, skirting recent U.S.-French tensions, and immersed herself in issues like Libya and cybersecurity.",
+            "url": "https://www.nytimes.com/2021/11/12/us/politics/kamala-harris-macron-france.html",
+            "uri": "nyt://article/b40c6934-a29b-5c61-ac48-a16824d57f11",
+            "byline": "By Katie Rogers and Zolan Kanno-Youngs",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T13:44:58-05:00",
+            "created_date": "2021-11-12T17:20:16-05:00",
+            "published_date": "2021-11-12T17:20:16-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States International Relations",
+                "United States Politics and Government",
+                "Vice Presidents and Vice Presidency (US)"
+            ],
+            "org_facet": [],
+            "per_facet": ["Harris, Kamala D"],
+            "geo_facet": ["France", "Guatemala", "Singapore", "Vietnam"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/world/12harris-france-1/merlin_197728815_101635f9-345b-4bb2-9282-e7015abc026c-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Emmanuel Macron of France and Vice President Kamala Harris in Paris on Friday.",
+                    "copyright": "Sarahbeth Maney/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3c9zVdf"
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Coronavirus Briefing: What Happened Today",
+            "abstract": "The future of work",
+            "url": "https://www.nytimes.com/2021/11/12/us/coronavirus-briefing-today-future-of-work-vaccine-mandates.html",
+            "uri": "nyt://article/f4568299-ac44-5a39-90aa-28fe8d6fa56a",
+            "byline": "By Jonathan Wolfe",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T17:55:11-05:00",
+            "created_date": "2021-11-12T17:03:00-05:00",
+            "published_date": "2021-11-12T17:03:00-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": ["Coronavirus (2019-nCoV)"],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/21/us/cases_orphan_usa-1595349567192-copy/cases_orphan_usa-1595349567192-superJumbo-v1084.png",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Daily reported coronavirus cases in the United States, seven-day average.",
+                    "copyright": "The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3c7cLEp"
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Read the Indictment",
+            "abstract": "A grand jury indicted Stephen K. Bannon, a former Trump aide, on two counts of contempt of Congress after he refused to comply with subpoenas in a House committee’s investigation of the Jan. 6 Capitol riot.",
+            "url": "https://www.nytimes.com/interactive/2021/11/12/us/bannon-indicted.html",
+            "uri": "nyt://interactive/9a6eab75-1836-5159-82ea-01f40d701d73",
+            "byline": "",
+            "item_type": "Interactive",
+            "updated_date": "2021-11-12T17:53:11-05:00",
+            "created_date": "2021-11-12T16:47:37-05:00",
+            "published_date": "2021-11-12T16:47:37-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Politics and Government",
+                "Storming of the US Capitol (Jan, 2021)",
+                "Subpoenas"
+            ],
+            "org_facet": ["House of Representatives", "Justice Department"],
+            "per_facet": ["Bannon, Stephen K", "Trump, Donald J"],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/doc-1366402-stephen-k-promo/doc-1366402-stephen-k-promo-superJumbo.png",
+                    "format": "superJumbo",
+                    "height": 1413,
+                    "width": 1089,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                }
+            ],
+            "short_url": "https://nyti.ms/3C5i4yQ"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Bannon Indicted on Contempt Charges Over House’s Capitol Riot Inquiry",
+            "abstract": "Stephen K. Bannon, a former top aide to Donald Trump, had refused to comply with subpoenas from the House committee investigating the Jan. 6 attack on Congress.",
+            "url": "https://www.nytimes.com/2021/11/12/us/politics/bannon-indicted.html",
+            "uri": "nyt://article/a0873dd9-e34a-5b83-a8dd-282e3a60a83d",
+            "byline": "By Katie Benner and Luke Broadwater",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T08:27:59-05:00",
+            "created_date": "2021-11-12T16:05:23-05:00",
+            "published_date": "2021-11-12T16:05:23-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Politics and Government",
+                "Storming of the US Capitol (Jan, 2021)",
+                "Subpoenas",
+                "Executive Privilege, Doctrine of"
+            ],
+            "org_facet": ["House of Representatives"],
+            "per_facet": ["Bannon, Stephen K", "Trump, Donald J"],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/us/politics/12dc-bannon-sub/12dc-bannon-sub-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Stephen K. Bannon had refused last month to comply with subpoenas for information issued by the House select committee investigating the Jan. 6 Capitol riot.",
+                    "copyright": "Carlos Bernate for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3F9uNlY"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Democrats’ Bill Would Deny For-Profit College Students Extra Aid",
+            "abstract": "Critics say a little-noticed provision would hurt the very constituencies — people of color, the working class, low-income Americans — that the party typically champions.",
+            "url": "https://www.nytimes.com/2021/11/12/us/politics/pell-grants-for-profit-colleges-aid.html",
+            "uri": "nyt://article/d4c30f50-47e9-5a97-9e17-bb082ec668a6",
+            "byline": "By Erica L. Green",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T11:30:27-05:00",
+            "created_date": "2021-11-12T15:56:07-05:00",
+            "published_date": "2021-11-12T15:56:07-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "For-Profit Schools",
+                "Financial Aid (Education)",
+                "United States Politics and Government",
+                "Colleges and Universities",
+                "Pell Grants",
+                "American Families Plan (2021)"
+            ],
+            "org_facet": ["Democratic Party", "ITT Technical Institute", "Corinthian Colleges Inc"],
+            "per_facet": ["Biden, Joseph R Jr"],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/us/politics/12dc-college-2sub/merlin_121393388_ccb17468-beac-41a5-b92d-179b4b8481a0-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The ITT Technical Institute was one of the country’s largest for-profit schools before it went under in 2016.",
+                    "copyright": "Sandy Huffaker for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3omcPG1"
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "20 People Rescued From Flooded R.V. Park in Oregon",
+            "abstract": "Some campers were airlifted from a recreational vehicle park after floodwaters covered the only bridge in and out of the area.",
+            "url": "https://www.nytimes.com/2021/11/12/us/oregon-flood-evacuation.html",
+            "uri": "nyt://article/10bfb775-a8ab-5053-ba70-a63d51372af4",
+            "byline": "By Isabella Grullón Paz",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T19:02:29-05:00",
+            "created_date": "2021-11-12T15:43:37-05:00",
+            "published_date": "2021-11-12T15:43:37-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": ["Floods", "Rescues", "Rain", "Weather"],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": ["Oregon", "Washington (State)"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/us/12xp-flooding4/12xp-flooding4-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1345,
+                    "width": 1855,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Flooding in Otis, Ore., swamped a fire truck and prompted the evacuation of a recreational vehicle park near the coast.",
+                    "copyright": "Lincoln County Sheriff’s Office"
+                }
+            ],
+            "short_url": "https://nyti.ms/3c6DAbN"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Qatar to Represent U.S. Interests in Afghanistan, Blinken Says",
+            "abstract": "The Gulf nation will also help process visas for thousands of people trying to flee the Taliban.",
+            "url": "https://www.nytimes.com/2021/11/12/us/politics/us-qatar-afghanistan.html",
+            "uri": "nyt://article/a0edb597-e108-5804-b00b-1bc02c4800ed",
+            "byline": "By Lara Jakes",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T23:37:50-05:00",
+            "created_date": "2021-11-12T14:18:20-05:00",
+            "published_date": "2021-11-12T14:18:20-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Peace Process",
+                "United States Defense and Military Forces",
+                "Afghanistan War (2001- )",
+                "Visas",
+                "Immigration and Emigration",
+                "Evacuations and Evacuees"
+            ],
+            "org_facet": ["Taliban", "State Department"],
+            "per_facet": ["Blinken, Antony J"],
+            "geo_facet": ["Qatar"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/us/politics/12dc-diplo-afghan-1/merlin_197729862_1e03fdc0-3dab-4249-afba-911b0f1ff581-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 983,
+                    "width": 1440,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Foreign Minister Mohammed bin Abdulrahman al-Thani of Qatar and Secretary of State Antony J. Blinken at the State Department in Washington on Friday.",
+                    "copyright": "Pool photo by Olivier Douliery"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Fh76bD"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Menace Enters the Republican Mainstream",
+            "abstract": "Threats of violence have become commonplace among a significant part of the party, as historians and those who study democracy warn of a dark shift in American politics.",
+            "url": "https://www.nytimes.com/2021/11/12/us/politics/republican-violent-rhetoric.html",
+            "uri": "nyt://article/f81d1ec7-c207-5640-9fcc-3fd5c3999317",
+            "byline": "By Lisa Lerer and Astead W. Herndon",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T08:53:08-05:00",
+            "created_date": "2021-11-12T14:09:32-05:00",
+            "published_date": "2021-11-12T14:09:32-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Politics and Government",
+                "Storming of the US Capitol (Jan, 2021)",
+                "Conservatism (US Politics)",
+                "Polls and Public Opinion",
+                "Right-Wing Extremism and Alt-Right",
+                "Demonstrations, Protests and Riots",
+                "Threats and Threatening Messages"
+            ],
+            "org_facet": ["Republican Party"],
+            "per_facet": ["Trump, Donald J"],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/11/us/politics/11GOP-VIOLENCE-1/merlin_182089221_b180ac01-9483-452f-b53d-9019cfd37ed7-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Rioters at the Capitol on Jan. 6. Polling suggests that 30 percent of Republicans believe that “true patriots” may have to resort to violence to “save” the country.",
+                    "copyright": "Jason Andrew for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3kynoEP"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Biden and China’s Xi Will Hold Virtual Summit on Monday",
+            "abstract": "The leaders of the world’s two largest economies confront tensions over trade, cyberthreats, the climate, Taiwan and human rights.",
+            "url": "https://www.nytimes.com/2021/11/12/us/politics/biden-china-xi-jinping.html",
+            "uri": "nyt://article/d1d1d75d-ea7b-5bfe-89c4-8eb93d8486b8",
+            "byline": "By Michael D. Shear",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T23:35:18-05:00",
+            "created_date": "2021-11-12T12:33:35-05:00",
+            "published_date": "2021-11-12T12:33:35-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": ["United States International Relations"],
+            "org_facet": [],
+            "per_facet": ["Biden, Joseph R Jr", "Xi Jinping"],
+            "geo_facet": ["China"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/us/politics/12dc-summit/merlin_197716896_1a06b986-fa5d-4f8a-ba7b-17efe729c133-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A virtual summit between President Biden and President Xi Jinping of China has been in the works since early October.",
+                    "copyright": "Ng Han Guan/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3ncaSNi"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Murkowski Announces Re-election Bid, Setting Up Clash With Trump",
+            "abstract": "Of the seven Republicans who found former President Donald J. Trump guilty in his second impeachment trial, the Alaska senator is the only one facing re-election this year.",
+            "url": "https://www.nytimes.com/2021/11/12/us/politics/murkowski-re-election-bid.html",
+            "uri": "nyt://article/e371c807-d060-545d-8df9-2bd6e1665719",
+            "byline": "By Emily Cochrane",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T23:46:41-05:00",
+            "created_date": "2021-11-12T12:05:35-05:00",
+            "published_date": "2021-11-12T12:05:35-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": ["United States Politics and Government", "Elections, Senate"],
+            "org_facet": [],
+            "per_facet": [
+                "Biden, Joseph R Jr",
+                "McConnell, Mitch",
+                "Murkowski, Lisa",
+                "Scott, Richard L",
+                "Trump, Donald J",
+                "Tshibaka, Kelly"
+            ],
+            "geo_facet": ["Alaska"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/us/politics/12dc-murkowski/merlin_192818190_15ce0a2c-0859-44c4-be04-fb5c500bea3c-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Senator Lisa Murkowski, first appointed to the Senate in 2002 by her father after he became governor and resigned from the seat, is the second-most-senior Republican woman.",
+                    "copyright": "Stefani Reynolds for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3kwJuri"
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Husband of ‘Sweetheart Swindler’ Sentenced to 85 Years for Bilking Older People",
+            "abstract": "Prosecutors said that Desiree Boltos and her husband, Paul Hill, stole more than $3 million from seniors who believed they were in romantic relationships with her.",
+            "url": "https://www.nytimes.com/2021/11/12/us/sweetheart-swindler-sentenced.html",
+            "uri": "nyt://article/be044651-650b-5587-a7dd-a737611421af",
+            "byline": "By Michael Levenson",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T18:00:47-05:00",
+            "created_date": "2021-11-12T11:11:44-05:00",
+            "published_date": "2021-11-12T11:11:44-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": ["Dating and Relationships", "Frauds and Swindling", "Elderly"],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": ["Fort Worth (Tex)", "Tarrant County (Tex)"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/multimedia/12XP-SWEETHEART-SWINDLERS-COMBO/12XP-SWEETHEART-SWINDLERS-COMBO-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Desiree Boltos and Paul Hill",
+                    "copyright": "Tarrant County Sheriff’s Office"
+                }
+            ],
+            "short_url": "https://nyti.ms/3HjFCUk"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Biden Chooses Robert Califf to Lead F.D.A., Despite Drug Industry Ties",
+            "abstract": "Dr. Robert M. Califf, an academic and clinical trial researcher who ran the agency in 2016, has also consulted for pharmaceutical companies.",
+            "url": "https://www.nytimes.com/2021/11/12/us/politics/robert-califf-fda.html",
+            "uri": "nyt://article/fa756fd8-f549-554b-9125-5b484ba90011",
+            "byline": "By Sheryl Gay Stolberg and Sheila Kaplan",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T23:50:40-05:00",
+            "created_date": "2021-11-12T10:37:36-05:00",
+            "published_date": "2021-11-12T10:37:36-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Drugs (Pharmaceuticals)",
+                "Clinical Trials",
+                "Regulation and Deregulation of Industry",
+                "Conflicts of Interest",
+                "Appointments and Executive Changes",
+                "United States Politics and Government"
+            ],
+            "org_facet": ["Food and Drug Administration", "Duke University"],
+            "per_facet": ["Califf, Robert M", "Biden, Joseph R Jr", "Manchin, Joe III"],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/03/us/politics/00DC-CALIFF-HFO/00DC-CALIFF-HFO-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "If Dr. Robert M. Califf, center, is confirmed by the Senate, he will again take the reins of an agency that is responsible for more than $2.8 trillion worth of food, medical products and tobacco.",
+                    "copyright": "Andrew Harnik/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3oqPUt8"
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "See’s Turns 100. Plus Other Quintessentially California Foods.",
+            "abstract": "Avocados, In-N-Out Burger, sourdough bread and more.",
+            "url": "https://www.nytimes.com/2021/11/12/us/sees-candies-california-foods.html",
+            "uri": "nyt://article/74b6089e-8303-52df-a762-7314ca79beb6",
+            "byline": "By Soumya Karlamangla",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T08:43:22-05:00",
+            "created_date": "2021-11-12T08:43:22-05:00",
+            "published_date": "2021-11-12T08:43:22-05:00",
+            "material_type_facet": "",
+            "kicker": "California Today",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": ["California"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/10/slideshows/12CAToday-promo/catoday-sees-candy-slide-US02-superJumbo-v4.jpg",
+                    "format": "superJumbo",
+                    "height": 1257,
+                    "width": 1886,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "See's Candy"
+                }
+            ],
+            "short_url": "https://nyti.ms/3kyClqv"
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Black Farmworkers Say They Lost Jobs to Foreigners Who Were Paid More",
+            "abstract": "Longtime field laborers in the Mississippi Delta said in a lawsuit that they were asked to train white guest workers from South Africa before losing their jobs to them.",
+            "url": "https://www.nytimes.com/2021/11/12/us/black-farmworkers-mississippi-lawsuit.html",
+            "uri": "nyt://article/42e1e2ef-bb9a-503f-a7ed-6feee1877fd4",
+            "byline": "By Miriam Jordan and Sarahbeth Maney",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T11:08:29-05:00",
+            "created_date": "2021-11-12T05:00:40-05:00",
+            "published_date": "2021-11-12T05:00:40-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Foreign Workers",
+                "Agriculture and Farming",
+                "Labor and Jobs",
+                "Visas",
+                "Race and Ethnicity",
+                "Discrimination",
+                "Black People",
+                "Layoffs and Job Reductions",
+                "Whites",
+                "Suits and Litigation (Civil)"
+            ],
+            "org_facet": ["Mississippi Center for Justice"],
+            "per_facet": [],
+            "geo_facet": ["Indianola (Miss)", "Mississippi", "South Africa"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/05/us/00mississippi-labor-promo/merlin_197015481_6b4f2d65-49b6-45e8-80a3-c35a6d837318-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Richard Strong in a cotton field near Highway 82 in Indianaola, Miss. Mr. Strong is a plaintiff in a case suing Southern farm owners for illegally using the H-2A visa program to deny Americans work.",
+                    "copyright": "Sarahbeth Maney/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/30dM0vm"
+        }
+    ]
+}

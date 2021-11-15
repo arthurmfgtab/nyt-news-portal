@@ -1,30 +1,49 @@
 <template>
-  <div id="nav">
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
-  </div>
-  <router-view />
+    <Header />
+    <main>
+        <router-view />
+    </main>
+    <Footer v-show="!isLoading" />
 </template>
 
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
+<script>
+import Header from "./components/Header.vue"
+import Footer from "./components/Footer.vue"
+import { mapState } from "vuex"
+
+export default {
+    name: "App",
+    components: {
+        Header,
+        Footer,
+    },
+    computed: {
+        ...mapState(["isLoading"]),
+    },
+}
+</script>
+
+<style scoped>
+main {
+    padding: 2rem 4rem;
+    height: 100%;
 }
 
-#nav {
-  padding: 30px;
+@media only screen and (max-width: 1020px) {
+    main {
+        padding: 1.75rem 2rem;
+    }
 }
 
-#nav a {
-  font-weight: bold;
-  color: #2c3e50;
+@media only screen and (max-width: 720px) {
+    main {
+        padding: 1.5rem 1.75rem;
+    }
 }
 
-#nav a.router-link-exact-active {
-  color: #42b983;
+@media only screen and (max-width: 600px) {
+    main {
+        padding: 1rem 1rem;
+    }
 }
 </style>

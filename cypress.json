@@ -1,3 +1,9 @@
 {
-  "pluginsFile": "tests/e2e/plugins/index.js"
+    "pluginsFile": "tests/e2e/plugins/index.js",
+    "env": {
+        "CYPRESS_DEV_BASEURL": "http://localhost:8081/#/",
+        "CYPRESS_NYT_BASE_URL": "https://api.nytimes.com/svc",
+        "CYPRESS_NYT_API_KEY": "jGfIrbvofVefeE0HPsYz4cA3MNTHHdDD",
+        "CYPRESS_NYT_API_SECRET": "1xxjtOLAiNg8Gwfx"
+    }
 }

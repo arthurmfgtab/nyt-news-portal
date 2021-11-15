@@ -1,0 +1,2165 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2021 The New York Times Company. All Rights Reserved.",
+    "section": "home",
+    "last_updated": "2021-11-13T15:55:26-05:00",
+    "num_results": 57,
+    "results": [
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "How the U.S. Hid an Airstrike That Killed Dozens of Civilians in Syria",
+            "abstract": "The military never conducted an independent investigation into a 2019 bombing on the last bastion of the Islamic State, despite concerns about a secretive commando force.",
+            "url": "https://www.nytimes.com/2021/11/13/us/us-airstrikes-civilian-deaths.html",
+            "uri": "nyt://article/ca657a0f-ddb2-58c1-8a9c-dd82da339c9d",
+            "byline": "By Dave Philipps and Eric Schmitt",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T13:33:06-05:00",
+            "created_date": "2021-11-13T12:57:29-05:00",
+            "published_date": "2021-11-13T12:57:29-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Civilian Casualties",
+                "Drones (Pilotless Planes)",
+                "United States Defense and Military Forces",
+                "War and Armed Conflicts",
+                "Terrorism",
+                "Classified Information and State Secrets",
+                "War Crimes, Genocide and Crimes Against Humanity",
+                "Inspectors General",
+                "Human Rights and Human Rights Violations"
+            ],
+            "org_facet": ["Islamic State in Iraq and Syria (ISIS)"],
+            "per_facet": [],
+            "geo_facet": ["Syria"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/14/us/politics/13airstrike-jump-1-alt/13airstrike-jump-1-alt-superJumbo-v2.jpg",
+                    "format": "superJumbo",
+                    "height": 1353,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Fleeing heavy bombardment in Baghuz, Syria — the Islamic State’s last holdout — on March 18, 2019.",
+                    "copyright": "Giuseppe Cacace/Agence France-Presse &mdash; Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3DlbMwA"
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "Times Investigation: In U.S. Drone Strike, Evidence Suggests No ISIS Bomb",
+            "abstract": "U.S. officials said a Reaper drone followed a car for hours and then fired based on evidence it was carrying explosives. But in-depth video analysis and interviews at the site cast doubt on that account.",
+            "url": "https://www.nytimes.com/2021/09/10/world/asia/us-air-strike-drone-kabul-afghanistan-isis.html",
+            "uri": "nyt://article/554bf158-5950-50d4-b9e5-ef34ee6996bb",
+            "byline": "By Matthieu Aikins, Christoph Koettl, Evan Hill and Eric Schmitt",
+            "item_type": "Article",
+            "updated_date": "2021-11-03T17:03:38-04:00",
+            "created_date": "2021-09-10T16:09:15-04:00",
+            "published_date": "2021-09-10T16:09:15-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Drones (Pilotless Planes)",
+                "Targeted Killings",
+                "United States Defense and Military Forces",
+                "Civilian Casualties",
+                "Afghanistan War (2001- )",
+                "Deaths (Fatalities)",
+                "Bombs and Explosives",
+                "Terrorism"
+            ],
+            "org_facet": ["Taliban", "Islamic State Khorasan"],
+            "per_facet": [],
+            "geo_facet": ["Kabul (Afghanistan)"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/09/10/video/10vid-cvr-kabuldrone/10vid-cvr-kabuldrone-superJumbo-v2.jpg",
+                    "format": "superJumbo",
+                    "height": 1080,
+                    "width": 1920,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "By The New York Times. Video frame: Nutrition & Education International."
+                }
+            ],
+            "short_url": "https://nyti.ms/3A22XWN"
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Can Self-Defense Laws Stand Up to a Country Awash in Guns?",
+            "abstract": "The Kyle Rittenhouse and Ahmaud Arbery cases raise intriguing legal questions about people who take the law into their own hands and then claim self-defense when someone dies.",
+            "url": "https://www.nytimes.com/2021/11/13/us/rittenhouse-arbery-self-defense.html",
+            "uri": "nyt://article/c6ae11ba-3562-5988-bf0e-f53165a52e6b",
+            "byline": "By Shaila Dewan",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T14:32:20-05:00",
+            "created_date": "2021-11-13T13:06:44-05:00",
+            "published_date": "2021-11-13T13:06:44-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": ["Self-Defense", "Murders, Attempted Murders and Homicides", "Vigilantes"],
+            "org_facet": [],
+            "per_facet": [
+                "Rittenhouse, Kyle",
+                "Rosenbaum, Joseph (d 2020)",
+                "Huber, Anthony (d 2020)",
+                "Grosskreutz, Gaige",
+                "Bryan, William Roddie",
+                "McMichael, Gregory (1955- )",
+                "McMichael, Travis (1986- )",
+                "Arbery, Ahmaud (1994-2020)"
+            ],
+            "geo_facet": ["Kenosha (Wis)", "Brunswick (Ga)"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/14/us/14self-defense-print1/merlin_197541627_48bb3539-3127-454b-9017-d7a3e0d9fbcd-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1612,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A detective holding the gun used by Kyle Rittenhouse last year.",
+                    "copyright": "Pool photo by Sean Krajacic"
+                }
+            ],
+            "short_url": "https://nyti.ms/3c97cFv"
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "Migrants Say Belarusians Took Them to E.U. Border and Supplied Wire Cutters",
+            "abstract": "Iraqi Kurds and other migrants said they were fleeing despair at home, but Belarus encouraged them, offering visas and helping them get to the border.",
+            "url": "https://www.nytimes.com/2021/11/13/world/middleeast/belarus-migrants-iraq-kurds.html",
+            "uri": "nyt://article/f60823cd-701b-580b-9a30-a8d03433a3e0",
+            "byline": "By Jane Arraf and Elian Peltier",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T11:26:14-05:00",
+            "created_date": "2021-11-13T05:19:39-05:00",
+            "published_date": "2021-11-13T05:19:39-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Middle East and Africa Migrant Crisis",
+                "Defense and Military Forces",
+                "Illegal Immigration",
+                "Immigration and Emigration",
+                "Smuggling",
+                "Border Barriers",
+                "Embargoes and Sanctions",
+                "Kurds"
+            ],
+            "org_facet": ["European Union"],
+            "per_facet": ["Lukashenko, Aleksandr G"],
+            "geo_facet": [
+                "Belarus",
+                "Dubai (United Arab Emirates)",
+                "Erbil (Iraq)",
+                "Europe",
+                "Iraq",
+                "Kurdistan",
+                "Latvia",
+                "Lithuania",
+                "Middle East",
+                "Minsk (Belarus)",
+                "Poland"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/13/world/13iraq-belarus01/merlin_197730111_a3e202bc-6ad4-4638-b3dd-8db6eb158bfa-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1536,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kamyar and Sarhang, second and third from left, were joined by friends as they picked up their visas for Belarus on Thursday at a travel agency in Sulaimaniya, Iraq.",
+                    "copyright": "Laura Boushnak for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3c5zJMc"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Menace Enters the Republican Mainstream",
+            "abstract": "Threats of violence have become commonplace among a significant part of the party, as historians and those who study democracy warn of a dark shift in American politics.",
+            "url": "https://www.nytimes.com/2021/11/12/us/politics/republican-violent-rhetoric.html",
+            "uri": "nyt://article/f81d1ec7-c207-5640-9fcc-3fd5c3999317",
+            "byline": "By Lisa Lerer and Astead W. Herndon",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T08:53:08-05:00",
+            "created_date": "2021-11-12T14:09:32-05:00",
+            "published_date": "2021-11-12T14:09:32-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Politics and Government",
+                "Storming of the US Capitol (Jan, 2021)",
+                "Conservatism (US Politics)",
+                "Polls and Public Opinion",
+                "Right-Wing Extremism and Alt-Right",
+                "Demonstrations, Protests and Riots",
+                "Threats and Threatening Messages"
+            ],
+            "org_facet": ["Republican Party"],
+            "per_facet": ["Trump, Donald J"],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/11/us/politics/11GOP-VIOLENCE-1/merlin_182089221_b180ac01-9483-452f-b53d-9019cfd37ed7-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Rioters at the Capitol on Jan. 6. Polling suggests that 30 percent of Republicans believe that “true patriots” may have to resort to violence to “save” the country.",
+                    "copyright": "Jason Andrew for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3kynoEP"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Chris Christie Wants the Post-Trump G.O.P. to Move Past 2020",
+            "abstract": "In a new book and in an interview, Mr. Christie says that if the former president wants to be a positive force, “he’s got to let this other stuff go.”",
+            "url": "https://www.nytimes.com/2021/11/13/us/politics/chris-christie-book-trump.html",
+            "uri": "nyt://article/bbb1a42c-a3c1-56bf-95ba-178c1a60ad9f",
+            "byline": "By Maggie Haberman",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T13:00:28-05:00",
+            "created_date": "2021-11-13T09:00:07-05:00",
+            "published_date": "2021-11-13T09:00:07-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Presidential Election of 2020",
+                "United States Politics and Government",
+                "Voter Fraud (Election Fraud)",
+                "Rumors and Misinformation",
+                "Books and Literature",
+                "Storming of the US Capitol (Jan, 2021)",
+                "Republican Rescue: Saving the Party From Truth Deniers, Conspiracy Theorists, and the Dangerous Policies of Joe Biden (Book)"
+            ],
+            "org_facet": ["Republican Party"],
+            "per_facet": ["Christie, Christopher J", "Trump, Donald J"],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/14/us/politics/13christie-book-1/merlin_177705312_5b14dee8-c34b-435d-9928-b05824a0f198-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Chris Christie says his new book is not about Donald J. Trump, but “about where we go from here and why it is important for us to let go of the past.”",
+                    "copyright": "Al Drago for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Cd9IFr"
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "‘They See Us as the Enemy’: School Nurses Battle Covid-19, and Angry Parents",
+            "abstract": "School nurses, who were already stretched thin before the pandemic, say that they are overworked and overwhelmed.",
+            "url": "https://www.nytimes.com/2021/11/13/health/coronavirus-school-nurses.html",
+            "uri": "nyt://article/b7b5dec8-aaa7-5b42-b835-6378130ffd79",
+            "byline": "By Emily Anthes",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T11:34:38-05:00",
+            "created_date": "2021-11-13T05:00:13-05:00",
+            "published_date": "2021-11-13T05:00:13-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "your-feed-science",
+                "Nursing and Nurses",
+                "Coronavirus (2019-nCoV)",
+                "Education (K-12)",
+                "your-feed-health",
+                "Parenting",
+                "Disease Rates"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": ["Oregon"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/05/science/00virus-school-nurses-promo/merlin_197347905_a62385e8-3368-4145-8cca-251b6d9cb2e2-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1367,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Brandon Thibodeaux for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3qHeRDk"
+        },
+        {
+            "section": "t-magazine",
+            "subsection": "",
+            "title": "The Thrilling Dare of Scorched Rice",
+            "abstract": "When browned on the bottom of the pot by a skilled cook, the grain is transformed into a complex delicacy, one prized by food cultures around the world.",
+            "url": "https://www.nytimes.com/2021/11/11/t-magazine/scorched-burnt-rice.html",
+            "uri": "nyt://article/86037550-89cf-5194-86ed-9a4028b7ab0d",
+            "byline": "By Ligaya Mishan and Anthony Cotsifas",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T11:36:13-05:00",
+            "created_date": "2021-11-11T05:00:20-05:00",
+            "published_date": "2021-11-11T05:00:20-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": ["Rice", "Cooking and Cookbooks", "Food", "Travel and Vacations"],
+            "org_facet": [
+                "Jeepney (Manhattan, NY, Restaurant)",
+                "Teranga (Manhattan, NY, Restaurant)"
+            ],
+            "per_facet": [
+                "Diaz, Von",
+                "Nguyen, Andrea",
+                "Ponseca, Nicole (1976- )",
+                "Deravian, Naz"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/11/t-magazine/11tmag-burntrice-slide-ZX0C-copy/11tmag-burntrice-slide-ZX0C-copy-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A stack of nurungji, Korean scorched rice.",
+                    "copyright": "Photograph by Anthony Cotsifas. Food styling by Young Gun Lee. Set design by Suzy Kim"
+                }
+            ],
+            "short_url": "https://nyti.ms/3kt1ZNh"
+        },
+        {
+            "section": "t-magazine",
+            "subsection": "",
+            "title": "Tracing Mexico’s Complicated Relationship With Rice",
+            "abstract": "Having arrived in the country via the Spanish Conquest, the grain’s presence poses the question: What’s native, and what isn’t, when it comes to a nation’s culinary history?",
+            "url": "https://www.nytimes.com/2021/11/11/t-magazine/mexico-rice-conquest.html",
+            "uri": "nyt://article/8cf11932-7196-5260-a05a-2ee56acea2a3",
+            "byline": "By Aatish Taseer and Stefan Ruiz",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T00:06:15-05:00",
+            "created_date": "2021-11-11T05:03:20-05:00",
+            "published_date": "2021-11-11T05:03:20-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Rice",
+                "Mexican Food (Cuisine)",
+                "Aztecs",
+                "Cooking and Cookbooks",
+                "Restaurants",
+                "Colonization",
+                "Travel and Vacations"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Cortes, Hernan (1485-1547)",
+                "Olvera, Enrique (Chef)",
+                "West, Rebecca",
+                "Lawrence, D H"
+            ],
+            "geo_facet": ["Oaxaca (Mexico)", "Mexico"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/11/t-magazine/11tmag-mexico-slide-81R0-copy/11tmag-mexico-slide-81R0-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The vendor and cook Doña Vale sits at her stall in the Mercado de Abastos, one of the oldest and most popular street markets in Oaxaca, enjoying a bit of chocolate and bread after a morning of work.",
+                    "copyright": "Stefan Ruiz"
+                }
+            ],
+            "short_url": "https://nyti.ms/3F66hlL"
+        },
+        {
+            "section": "t-magazine",
+            "subsection": "",
+            "title": "In Senegal, a Return to Homegrown Rice",
+            "abstract": "The country has remained mostly dependent on the grain’s importation since colonization in the 1800s. But some locals are trying to change that.",
+            "url": "https://www.nytimes.com/2021/11/11/t-magazine/senegal-homegrown-rice.html",
+            "uri": "nyt://article/91b9f08f-ea39-5f6e-9940-bfc63ee4d406",
+            "byline": "By Angela Flournoy and Manuel Obadia-Wills",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T00:09:02-05:00",
+            "created_date": "2021-11-11T05:00:24-05:00",
+            "published_date": "2021-11-11T05:00:24-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Rice",
+                "Grain",
+                "Cooking and Cookbooks",
+                "Food",
+                "Agriculture and Farming",
+                "Travel and Vacations"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": ["Dakar (Senegal)", "Senegal"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/11/t-magazine/11tmag-senegal-slide-R1L7-copy/11tmag-senegal-slide-R1L7-copy-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "At Phare Des Mamelles, a restaurant in a lighthouse in Dakar, Senegal, grilled thiof (a white grouper fish) is served with cups of tamarind sauce (left), sauce moyo (right), roasted vegetables, limes and riz de la vallée (“rice of the valley”), which is grown in one of the country’s primary areas of cultivation, the Senegal River Valley. Beside the dish are some of its raw ingredients, including (clockwise from bottom) tamarind fruits, tomatoes, a bowl of dried peppers, fresh pepper fruits, onions, miniature eggplants, miniature green bell peppers, baby carrots and potatoes.",
+                    "copyright": "Manuel Obadia-Wills"
+                }
+            ],
+            "short_url": "https://nyti.ms/3kt23wv"
+        },
+        {
+            "section": "t-magazine",
+            "subsection": "",
+            "title": "For Many Members of the Arab American Diaspora, Mansaf Offers a Taste of Home",
+            "abstract": "The traditional Bedouin dish of bread, rice, lamb and yogurt is a talisman of identity in Jordan — and in various communities in suburban Detroit.",
+            "url": "https://www.nytimes.com/2021/11/11/t-magazine/mansaf-bedouin-rice.html",
+            "uri": "nyt://article/680a490f-4b17-5e1d-af3d-c3e7a3571bc9",
+            "byline": "By Diana Abu-Jaber and Renee Cox",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T00:10:21-05:00",
+            "created_date": "2021-11-11T05:02:59-05:00",
+            "published_date": "2021-11-11T05:02:59-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Cooking and Cookbooks",
+                "Rice",
+                "Restaurants",
+                "Yemeni-Americans",
+                "Arab-Americans",
+                "Bedouins",
+                "Immigration and Emigration",
+                "Travel and Vacations",
+                "Food"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": ["Dearborn (Mich)", "Detroit (Mich)", "Jordan"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/11/t-magazine/11tmag-mansaf-slide-PWC8-copy/11tmag-mansaf-slide-PWC8-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1243,
+                    "width": 1865,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A home-cooked mansaf of bread, rice, lamb and yogurt made by the Bazzi family, who own the Dearborn institution Habib’s Cuisine.",
+                    "copyright": "Renee Cox"
+                }
+            ],
+            "short_url": "https://nyti.ms/3c2MPd2"
+        },
+        {
+            "section": "briefing",
+            "subsection": "",
+            "title": "The Weekender",
+            "abstract": "A revolution that may solve chronic pain. Also in this edition: the secret to a better green salad and how to buy nothing new this holiday season.",
+            "url": "https://www.nytimes.com/interactive/2021/11/12/briefing/the-weekender.html",
+            "uri": "nyt://interactive/8d8eadea-2de4-5342-8c04-c0f6fe53ec98",
+            "byline": "By Anna Schaverien",
+            "item_type": "Interactive",
+            "updated_date": "2021-11-12T11:30:02-05:00",
+            "created_date": "2021-11-12T11:30:02-05:00",
+            "published_date": "2021-11-12T11:30:02-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/11/multimedia/1112-Weekender-promo-grid/1112-Weekender-promo-grid-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1368,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                }
+            ],
+            "short_url": "https://nyti.ms/3HjmdTJ"
+        },
+        {
+            "section": "briefing",
+            "subsection": "",
+            "title": "The New York Times News Quiz, November 12, 2021",
+            "abstract": "Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.",
+            "url": "https://www.nytimes.com/interactive/2021/11/12/briefing/news-quiz-inflation-aaron-rodgers-poland-belarus.html",
+            "uri": "nyt://interactive/ab3c904c-798b-571b-b1b9-ed31fb449677",
+            "byline": "",
+            "item_type": "Interactive",
+            "updated_date": "2021-11-12T06:07:01-05:00",
+            "created_date": "2021-11-12T05:00:03-05:00",
+            "published_date": "2021-11-12T05:00:03-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/12/09/world/12newsquiz-belarus/12newsquiz-belarus-superJumbo-v2.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "EPA, via Shutterstock"
+                }
+            ],
+            "short_url": "https://nyti.ms/3C98R8G"
+        },
+        {
+            "section": "style",
+            "subsection": "",
+            "title": "More Than Mr. Britney Spears",
+            "abstract": "Sam Asghari, the pop star’s fiancé, is working on his own path to fame in a year that has thrust him into the spotlight.",
+            "url": "https://www.nytimes.com/2021/11/13/style/sam-asghari-britney-spears.html",
+            "uri": "nyt://article/a9c36c76-fefc-5246-98c9-9922b60e482d",
+            "byline": "By Caity Weaver",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T14:56:27-05:00",
+            "created_date": "2021-11-13T05:00:09-05:00",
+            "published_date": "2021-11-13T05:00:09-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": ["Content Type: Personal Profile", "Stunts and Stuntmen"],
+            "org_facet": [],
+            "per_facet": ["Spears, Britney"],
+            "geo_facet": ["Los Angeles (Calif)", "Iran"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/14/fashion/14SAM-ASGHARI5/merlin_197000799_e4aecc5b-1e2b-4ad2-977f-49ef05dcf58b-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 1639,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Sam Asghari, 27, in Los Angeles.",
+                    "copyright": "Ryan Pfluger for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3qzrSir"
+        },
+        {
+            "section": "fashion",
+            "subsection": "",
+            "title": "Steven Mark Klein, Fashion Archivist and Gadfly, Dies at 70",
+            "abstract": "His collection of fashion ephemera now fills a museum, but he also chastised the industry, all while making a name as a brand adviser to hotels and restaurants.",
+            "url": "https://www.nytimes.com/2021/11/11/fashion/steven-mark-klein-dead.html",
+            "uri": "nyt://article/08d60fe3-55d8-5d3b-9d0f-c39a844f15c7",
+            "byline": "By Penelope Green",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T10:08:23-05:00",
+            "created_date": "2021-11-11T12:51:31-05:00",
+            "published_date": "2021-11-11T12:51:31-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Fashion and Apparel",
+                "Deaths (Obituaries)",
+                "Archives and Records",
+                "Advertising and Marketing"
+            ],
+            "org_facet": ["National Museum of Art, Architecture and Design (Oslo, Norway)"],
+            "per_facet": ["Fenley, Molissa", "Klein, Steven Mark"],
+            "geo_facet": ["Lower East Side (Manhattan, NY)"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/14/obituaries/09Klein1/merlin_178553685_98cb4aef-a3a3-42cb-923f-19cc810fde88-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 1639,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Steven Mark Klein in 2020. He was an unlikely fashion arbiter, but he cared deeply about the industry’s influence on young people.",
+                    "copyright": "George Etheredge for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3qzngJj"
+        },
+        {
+            "section": "realestate",
+            "subsection": "",
+            "title": "What Does It Take to Build a Disaster-Proof House?",
+            "abstract": "A few homeowners across the country are trying to find out, by experimenting with new (and old) construction techniques.",
+            "url": "https://www.nytimes.com/2021/11/12/realestate/disaster-proof-housing.html",
+            "uri": "nyt://article/bd91fe07-af22-5469-8b2d-3404b19b71db",
+            "byline": "By Candace Jackson",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T21:42:39-05:00",
+            "created_date": "2021-11-12T05:00:29-05:00",
+            "published_date": "2021-11-12T05:00:29-05:00",
+            "material_type_facet": "",
+            "kicker": "Building Technology",
+            "des_facet": [
+                "Real Estate and Housing (Residential)",
+                "Hurricanes and Tropical Storms",
+                "Disasters and Emergencies",
+                "Floods",
+                "Wildfires",
+                "Global Warming",
+                "Building (Construction)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": ["Paradise (Calif)"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/14/realestate/12technology-1/merlin_197319450_69baaf26-765d-4a81-aa4e-4763fcdbfa9f-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "After the 2018 Camp Fire destroyed Mike and Jennifer Petersen’s home in Paradise, Calif., they decided to replace it with a Q Cabin, a 1,400-square-foot structure made from noncombustible steel. “If there is going to be something that could survive a fire,” Mr. Petersen said, “this would be it.”",
+                    "copyright": "Jason Henry for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3wGgceJ"
+        },
+        {
+            "section": "opinion",
+            "subsection": "",
+            "title": "It’s Time to End the Pandemic Emergency at the Border",
+            "abstract": "Title 42 was supposed to be an emergency measure. It’s time to end its use.",
+            "url": "https://www.nytimes.com/2021/11/13/opinion/immigration-trump-biden-covid.html",
+            "uri": "nyt://article/52c4ad5f-d4f6-5696-9c73-a5a746e81627",
+            "byline": "By The Editorial Board",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T13:14:37-05:00",
+            "created_date": "2021-11-13T11:29:21-05:00",
+            "published_date": "2021-11-13T11:29:21-05:00",
+            "material_type_facet": "",
+            "kicker": "The Editorial Board",
+            "des_facet": [
+                "Illegal Immigration",
+                "Immigration and Emigration",
+                "United States Politics and Government",
+                "Coronavirus (2019-nCoV)",
+                "Smuggling"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/14/multimedia/13immigration_4/13immigration_4-superJumbo-v4.jpg",
+                    "format": "superJumbo",
+                    "height": 2047,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Benjamin Lowy for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Feunec"
+        },
+        {
+            "section": "opinion",
+            "subsection": "environment",
+            "title": "What Climate Change Looks Like From Space",
+            "abstract": "The impact is etched on land and ice across the planet.",
+            "url": "https://www.nytimes.com/interactive/2021/11/11/opinion/environment/climate-change-space.html",
+            "uri": "nyt://interactive/d7f55886-5dbd-597d-90be-38a5796d941b",
+            "byline": "By Gavin Schmidt",
+            "item_type": "Interactive",
+            "updated_date": "2021-11-12T09:34:42-05:00",
+            "created_date": "2021-11-11T15:07:01-05:00",
+            "published_date": "2021-11-11T15:07:01-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Glaciers",
+                "Global Warming",
+                "United Nations Framework Convention on Climate Change",
+                "Greenhouse Gas Emissions",
+                "Satellites",
+                "Earth"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": ["Lake Baikal (Russia)", "Siberia", "Gulf of Mexico", "Arctic Regions"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/10/opinion/environment/10schmidt-1636487570925/10schmidt-1636487570925-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1500,
+                    "width": 1500,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "NASA",
+                    "copyright": ""
+                }
+            ],
+            "short_url": "https://nyti.ms/3DaswX0"
+        },
+        {
+            "section": "opinion",
+            "subsection": "culture",
+            "title": "How to Teach a Little Girl to Love Her Brown Skin",
+            "abstract": "“I don’t like my skin color,” my beautiful, brown-skinned daughter told me. “I wish my skin was lighter. It’s prettier.”",
+            "url": "https://www.nytimes.com/2021/11/13/opinion/culture/racism-colorism-parenting.html",
+            "uri": "nyt://article/d3689197-4c2a-553d-b0dd-16288bf6e142",
+            "byline": "By Wajahat Ali",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T11:00:06-05:00",
+            "created_date": "2021-11-13T11:00:06-05:00",
+            "published_date": "2021-11-13T11:00:06-05:00",
+            "material_type_facet": "",
+            "kicker": "Guest Essay",
+            "des_facet": [
+                "Parenting",
+                "Discrimination",
+                "Race and Ethnicity",
+                "Children and Childhood"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/14/opinion/13Ali/13Ali-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Kiran Joan"
+                }
+            ],
+            "short_url": "https://nyti.ms/3HlpRMQ"
+        },
+        {
+            "section": "opinion",
+            "subsection": "",
+            "title": "It’s Time to Get Honest About the Biden Doctrine",
+            "abstract": "Twentieth-century frameworks, paradigms and doctrines, of any kind, are  insufficient to meet the challenges of the 21st century. ",
+            "url": "https://www.nytimes.com/2021/11/12/opinion/biden-foreign-policy.html",
+            "uri": "nyt://article/1949d010-ec70-5be6-8af7-f406cda93b48",
+            "byline": "By Anne-Marie Slaughter",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T22:58:04-05:00",
+            "created_date": "2021-11-12T12:56:11-05:00",
+            "published_date": "2021-11-12T12:56:11-05:00",
+            "material_type_facet": "",
+            "kicker": "Guest Essay",
+            "des_facet": [
+                "United States International Relations",
+                "United States Politics and Government",
+                "Coronavirus (2019-nCoV)",
+                "Global Warming"
+            ],
+            "org_facet": [],
+            "per_facet": ["Biden, Joseph R Jr"],
+            "geo_facet": ["China"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/14/opinion/sunday/12slaughter_cover/12slaughter_cover-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 1370,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Antonio Giovanni Pinna"
+                }
+            ],
+            "short_url": "https://nyti.ms/3C6b1pr"
+        },
+        {
+            "section": "opinion",
+            "subsection": "",
+            "title": "How Kyrsten Sinema Uses Clothing to Signal Her Social Class",
+            "abstract": "The senator is trying to play many roles in Washington at once.",
+            "url": "https://www.nytimes.com/2021/11/12/opinion/kyrsten-sinema-clothing.html",
+            "uri": "nyt://article/3fd50c25-9c17-5e05-9619-0e2aa923c94c",
+            "byline": "By Tressie McMillan Cottom",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T15:48:51-05:00",
+            "created_date": "2021-11-12T17:31:06-05:00",
+            "published_date": "2021-11-12T17:31:06-05:00",
+            "material_type_facet": "",
+            "kicker": "Tressie McMillan Cottom",
+            "des_facet": [
+                "internal-sub-only-nl",
+                "Women and Girls",
+                "Fashion and Apparel",
+                "Beauty (Concept)",
+                "Women's Rights",
+                "United States Politics and Government"
+            ],
+            "org_facet": [],
+            "per_facet": ["Sinema, Kyrsten"],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/15/opinion/12Cottom-image/12Cottom-image-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Diana Ejaita"
+                }
+            ],
+            "short_url": "https://nyti.ms/3qyy9Lh"
+        },
+        {
+            "section": "opinion",
+            "subsection": "",
+            "title": "Why I Can’t Quit Extreme Workouts",
+            "abstract": "I like workouts that burn, workouts that sear, workouts that leave me on the ground gasping for air.",
+            "url": "https://www.nytimes.com/2021/11/13/opinion/why-i-cant-quit-extreme-workouts.html",
+            "uri": "nyt://article/f0014a69-7a2a-5724-9194-84b2641ad81b",
+            "byline": "By Jane Coaston",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T11:15:04-05:00",
+            "created_date": "2021-11-13T11:15:04-05:00",
+            "published_date": "2021-11-13T11:15:04-05:00",
+            "material_type_facet": "",
+            "kicker": "Jane Coaston",
+            "des_facet": [
+                "internal-sub-only-nl",
+                "Exercise",
+                "Mountaineering",
+                "Obstacle Courses (Sport)"
+            ],
+            "org_facet": ["CrossFit Inc"],
+            "per_facet": [],
+            "geo_facet": ["Mount Everest"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/13/opinion/13Coaston-image/13Coaston-image-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1500,
+                    "width": 1501,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Alex Merto"
+                }
+            ],
+            "short_url": "https://nyti.ms/3otvwYm"
+        },
+        {
+            "section": "opinion",
+            "subsection": "",
+            "title": "A Frenzy of Book Banning",
+            "abstract": "The right-wing war on school libraries.",
+            "url": "https://www.nytimes.com/2021/11/12/opinion/book-bans.html",
+            "uri": "nyt://article/789d0314-bcc5-5948-badc-50d017d587e7",
+            "byline": "By Michelle Goldberg",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T22:48:13-05:00",
+            "created_date": "2021-11-12T20:04:39-05:00",
+            "published_date": "2021-11-12T20:04:39-05:00",
+            "material_type_facet": "",
+            "kicker": "Michelle Goldberg",
+            "des_facet": [
+                "Education (K-12)",
+                "Libraries and Librarians",
+                "Censorship",
+                "Books and Literature",
+                "States (US)",
+                "School Boards",
+                "Freedom of Speech and Expression",
+                "Youth",
+                "Out of Darkness (Book)"
+            ],
+            "org_facet": ["American Library Assn"],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/opinion/12goldberg1/merlin_161959242_093b52b4-6f62-493b-8468-ef5a3155c737-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 1639,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Andrew Mangum for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2YK9AQ4"
+        },
+        {
+            "section": "opinion",
+            "subsection": "",
+            "title": "Joe Manchin, This Is What We Can’t Afford",
+            "abstract": "Sure, Biden’s plan costs a lot of money. But the price of inaction is higher.",
+            "url": "https://www.nytimes.com/2021/11/12/opinion/build-back-better-joe-manchin.html",
+            "uri": "nyt://article/de64780b-0b2b-5abe-b072-1cc32212c940",
+            "byline": "By Bryce Covert",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T11:42:33-05:00",
+            "created_date": "2021-11-12T05:00:20-05:00",
+            "published_date": "2021-11-12T05:00:20-05:00",
+            "material_type_facet": "",
+            "kicker": "Guest Essay",
+            "des_facet": [
+                "United States Economy",
+                "Children and Childhood",
+                "United States Politics and Government",
+                "Health Insurance and Managed Care",
+                "Elder Care",
+                "American Families Plan (2021)",
+                "Paid Time Off",
+                "Federal Aid (US)"
+            ],
+            "org_facet": ["Democratic Party", "House of Representatives", "Senate"],
+            "per_facet": ["Manchin, Joe III", "Biden, Joseph R Jr"],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/14/opinion/sunday/12covert/12covert-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Delcan & Co."
+                }
+            ],
+            "short_url": "https://nyti.ms/3Dcg6xN"
+        },
+        {
+            "section": "opinion",
+            "subsection": "",
+            "title": "You Are the Object of a Secret Extraction Operation",
+            "abstract": "Ending data extraction is the key to ending surveillance capitalism.",
+            "url": "https://www.nytimes.com/2021/11/12/opinion/facebook-privacy.html",
+            "uri": "nyt://article/99e1becf-9c99-5545-9c3f-b08e58f77922",
+            "byline": "By Shoshana Zuboff",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T10:12:47-05:00",
+            "created_date": "2021-11-12T05:00:13-05:00",
+            "published_date": "2021-11-12T05:00:13-05:00",
+            "material_type_facet": "",
+            "kicker": "Guest Essay",
+            "des_facet": [
+                "Data-Mining and Database Marketing",
+                "Privacy",
+                "Capitalism (Theory and Philosophy)",
+                "Computers and the Internet",
+                "Online Advertising",
+                "Regulation and Deregulation of Industry"
+            ],
+            "org_facet": ["Facebook Inc", "Google Inc"],
+            "per_facet": [],
+            "geo_facet": ["United States"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/16/opinion/sunday/11zuboff_still/11zuboff_still-superJumbo.png",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Shira Inbar"
+                }
+            ],
+            "short_url": "https://nyti.ms/3DhbNSc"
+        },
+        {
+            "section": "opinion",
+            "subsection": "",
+            "title": "Media for Parents that Doesn’t Make Me Hate Life",
+            "abstract": "Some of it is worth your time.",
+            "url": "https://www.nytimes.com/2021/11/13/opinion/media-for-parents-that-doesnt-make-me-hate-life.html",
+            "uri": "nyt://article/ff959bd5-30ab-5801-bb68-2cdf913d1121",
+            "byline": "By Jessica Grose",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T11:00:05-05:00",
+            "created_date": "2021-11-13T11:00:05-05:00",
+            "published_date": "2021-11-13T11:00:05-05:00",
+            "material_type_facet": "",
+            "kicker": "Jessica Grose",
+            "des_facet": [
+                "internal-sub-only-nl",
+                "Parenting",
+                "Children and Childhood",
+                "Television",
+                "Podcasts",
+                "Documentary Films and Programs",
+                "Nuclear Family (TV Program)"
+            ],
+            "org_facet": ["TikTok (ByteDance)"],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/06/opinion/06Grose-image/06Grose-image-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Eleanor Davis"
+                }
+            ],
+            "short_url": "https://nyti.ms/3HtDcmm"
+        },
+        {
+            "section": "opinion",
+            "subsection": "",
+            "title": "If You Have Something to Say, Then Say It",
+            "abstract": "Why do we prize writing skills over the ability to make an oral presentation?",
+            "url": "https://www.nytimes.com/2021/11/12/opinion/writing-spoken-argument.html",
+            "uri": "nyt://article/70016e8c-73db-526f-837f-e07106448eb6",
+            "byline": "By John McWhorter",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T16:02:14-05:00",
+            "created_date": "2021-11-12T16:02:14-05:00",
+            "published_date": "2021-11-12T16:02:14-05:00",
+            "material_type_facet": "",
+            "kicker": "John McWhorter",
+            "des_facet": ["Speeches and Statements", "Education (K-12)", "internal-sub-only-nl"],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/opinion/12McWhorter-image/12McWhorter-image-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1200,
+                    "width": 1200,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Delcan and Co. "
+                }
+            ],
+            "short_url": "https://nyti.ms/3Hf8Xzp"
+        },
+        {
+            "section": "opinion",
+            "subsection": "",
+            "title": "Consumers Are Resisting Inflation",
+            "abstract": "The jump in prices has them saying it’s not such a good time to buy washing machines, cars and houses.",
+            "url": "https://www.nytimes.com/2021/11/12/opinion/inflation-consumers.html",
+            "uri": "nyt://article/f3e4ca17-a23d-515e-a3bf-8d53c04a152b",
+            "byline": "By Peter Coy",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T15:35:36-05:00",
+            "created_date": "2021-11-12T15:35:36-05:00",
+            "published_date": "2021-11-12T15:35:36-05:00",
+            "material_type_facet": "",
+            "kicker": "Peter Coy",
+            "des_facet": [
+                "internal-sub-only-nl",
+                "United States Economy",
+                "Inflation (Economics)",
+                "Consumer Price Index",
+                "Prices (Fares, Fees and Rates)",
+                "Labor and Jobs",
+                "Home Appliances"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/opinion/12Coy-image/12Coy-image-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times; Photograph by Ahmad Hairi Mohamed "
+                }
+            ],
+            "short_url": "https://nyti.ms/3c7ilGX"
+        },
+        {
+            "section": "opinion",
+            "subsection": "",
+            "title": "The Mainstream Media Has a Republican Party Problem",
+            "abstract": "Jay Rosen on how the press fundamentally misunderstands American politics.",
+            "url": "https://www.nytimes.com/2021/11/12/opinion/ezra-klein-podcast-jay-rosen.html",
+            "uri": "nyt://article/31f8a691-0244-57a4-a937-58f59b7fe170",
+            "byline": "By ‘The Ezra Klein Show’",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T15:05:02-05:00",
+            "created_date": "2021-11-12T05:00:17-05:00",
+            "published_date": "2021-11-12T05:00:17-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Politics and Government",
+                "Newspapers",
+                "News and News Media",
+                "Computers and the Internet"
+            ],
+            "org_facet": ["New York University"],
+            "per_facet": ["Hemmer, Nicole"],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/opinion/12eks-rosen-image-V2/12eks-rosen-image-V2-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2YDpXha"
+        },
+        {
+            "section": "opinion",
+            "subsection": "",
+            "title": "Social Media Is Polluted With Climate Denialism",
+            "abstract": "Climate misinformation is rampant on social media. Is there anything to be done?",
+            "url": "https://www.nytimes.com/2021/11/12/opinion/climate-change-facebook-glasgow.html",
+            "uri": "nyt://article/6a3357f1-534d-5ad7-ac93-5352ad86a850",
+            "byline": "By Greg Bensinger",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T18:55:58-05:00",
+            "created_date": "2021-11-12T15:00:09-05:00",
+            "published_date": "2021-11-12T15:00:09-05:00",
+            "material_type_facet": "",
+            "kicker": "Greg Bensinger",
+            "des_facet": [
+                "Rumors and Misinformation",
+                "Social Media",
+                "Global Warming",
+                "Online Advertising",
+                "Advertising and Marketing"
+            ],
+            "org_facet": [
+                "Avaaz.org",
+                "Exxon Mobil Corp",
+                "Facebook Inc",
+                "Google Inc",
+                "Heartland Institute"
+            ],
+            "per_facet": ["Haugen, Frances"],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/15/opinion/12bensinger1/merlin_197273580_58bb67ce-4eb8-4cc7-99ca-eb2b8fe10338-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 1366,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Kieran Dodds for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3qxAMx1"
+        },
+        {
+            "section": "opinion",
+            "subsection": "",
+            "title": "Wonking Out: How Global Is Inflation?",
+            "abstract": "And Queen Victoria as a differential equation. ",
+            "url": "https://www.nytimes.com/2021/11/12/opinion/inflation-us-europe-covid.html",
+            "uri": "nyt://article/3ce5fa45-6635-56b9-b56c-346875c7b284",
+            "byline": "By Paul Krugman",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T13:18:27-05:00",
+            "created_date": "2021-11-12T13:15:04-05:00",
+            "published_date": "2021-11-12T13:15:04-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": ["internal-sub-only", "Inflation (Economics)"],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": ["Germany", "United States", "Italy", "France"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/opinion/12krugman-newsletter-image/12krugman-newsletter-image-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3ouyGeK"
+        },
+        {
+            "section": "opinion",
+            "subsection": "",
+            "title": "Madison Saw Something in the Constitution We Should Open Our Eyes To",
+            "abstract": "The guarantee clause could help Democrats push back against the threat of Republican political hegemony. ",
+            "url": "https://www.nytimes.com/2021/11/12/opinion/gerrymandering-guarantee-clause.html",
+            "uri": "nyt://article/811124fd-3bd9-5d34-bca5-09fcdda987e1",
+            "byline": "By Jamelle Bouie",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T13:44:36-05:00",
+            "created_date": "2021-11-12T05:00:10-05:00",
+            "published_date": "2021-11-12T05:00:10-05:00",
+            "material_type_facet": "",
+            "kicker": "Jamelle Bouie",
+            "des_facet": [
+                "United States Politics and Government",
+                "Constitution (US)",
+                "State Legislatures",
+                "States (US)",
+                "Redistricting and Reapportionment"
+            ],
+            "org_facet": ["Democratic Party", "House of Representatives", "Republican Party"],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/11/opinion/12bouie-image2/merlin_8868743_78cdf1fe-932d-4986-a142-af76b3e2215b-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 1451,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3D9GmsF"
+        },
+        {
+            "section": "dining",
+            "subsection": "",
+            "title": "The Absolute Best Pumpkin, Apple and Pecan Pies for Thanksgiving",
+            "abstract": "Melissa Clark has spent months perfecting techniques, so you don’t have to.",
+            "url": "https://www.nytimes.com/2021/11/12/dining/best-pumpkin-apple-pecan-pie-recipes-thanksgiving.html",
+            "uri": "nyt://article/b0bbe9d9-c9ca-5188-aff3-831f34a8ea63",
+            "byline": "By Melissa Clark",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T22:54:40-05:00",
+            "created_date": "2021-11-12T13:17:09-05:00",
+            "published_date": "2021-11-12T13:17:09-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Pies",
+                "Cooking and Cookbooks",
+                "Content Type: Service",
+                "Thanksgiving Day"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/17/dining/12BestPie5/merlin_196953993_2643b85c-b220-4e99-8c2d-018acdde0c8d-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Precooking the apple slices helps stabilize them, so they don’t dissolve into a saucy heap. ",
+                    "copyright": "Ryan Liebe for The New York Times. Food Stylist: Erika Joyce."
+                }
+            ],
+            "short_url": "https://nyti.ms/3kxB03g"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Flooding and Nuclear Waste Eat Away at a Tribe’s Ancestral Home",
+            "abstract": "The federal government allowed a stockpile of spent fuel on a Minnesota reservation to balloon even as a dam project whittled down the amount of livable land.",
+            "url": "https://www.nytimes.com/2021/11/13/us/politics/tribal-lands-flooding-nuclear-waste.html",
+            "uri": "nyt://article/f4467163-daa6-5557-a619-244c9f037b43",
+            "byline": "By Mark Walker",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T13:56:06-05:00",
+            "created_date": "2021-11-13T13:56:06-05:00",
+            "published_date": "2021-11-13T13:56:06-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Native Americans",
+                "Nuclear Wastes",
+                "Nuclear Energy",
+                "United States Politics and Government"
+            ],
+            "org_facet": ["Prairie Island Indian Community"],
+            "per_facet": [],
+            "geo_facet": ["Minnesota"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/14/us/politics/00DC-Nuclear-1/merlin_187349145_bc1e131b-27a2-4d9e-8738-18f7a282a86e-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The state of Minnesota and the federal government ignored warnings about potential issues from flooding and nuclear waste posed to put the Prairie Island Indian Community in danger.",
+                    "copyright": "Laylah Amatullah Barrayn for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3kwVJ7a"
+        },
+        {
+            "section": "world",
+            "subsection": "canada",
+            "title": "Urbanites Flock to Atlantic Canada as Pandemic Blunts Cities’ Appeal",
+            "abstract": "As housing prices soar in big cities, the country’s eastern provinces are experiencing a surge in migration. Newcomers are being welcomed, but some locals are wary.",
+            "url": "https://www.nytimes.com/2021/11/13/world/canada/newfoundland-migrants.html",
+            "uri": "nyt://article/6a0fe01f-097e-57b3-ac8b-8cfbf2b4ea42",
+            "byline": "By Dan Bilefsky",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T14:28:46-05:00",
+            "created_date": "2021-11-13T05:00:14-05:00",
+            "published_date": "2021-11-13T05:00:14-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Real Estate and Housing (Residential)",
+                "Coronavirus (2019-nCoV)",
+                "Rural Areas"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": ["Canada", "Newfoundland (Canada)"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/10/world/00Newfoundland/00Newfoundland-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Houses along the coastline in Bonavista, Newfoundland. Young professionals from across Canada are pouring in to the region.",
+                    "copyright": "Chris Donovan for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3F73VTA"
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "India Wants to Send Wheat to Ease Afghan Hunger Crisis. Pakistan Has Yet to OK Transit.",
+            "abstract": "Indian officials say Islamabad is dragging its feet on a request of transit for 50,000 tons of wheat to Afghanistan, where nine million people are on the brink of starvation.",
+            "url": "https://www.nytimes.com/2021/11/13/world/asia/india-pakistan-afghanistan-wheat.html",
+            "uri": "nyt://article/af17a930-1434-545b-8a68-7733d2cabffc",
+            "byline": "By Mujib Mashal",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T12:21:09-05:00",
+            "created_date": "2021-11-13T12:06:13-05:00",
+            "published_date": "2021-11-13T12:06:13-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Politics and Government",
+                "Afghanistan War (2001- )",
+                "Grain",
+                "Shortages",
+                "International Relations"
+            ],
+            "org_facet": ["World Food Program"],
+            "per_facet": ["Khan, Imran"],
+            "geo_facet": ["Afghanistan", "India", "Pakistan"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/13/world/13india-afghanistan01/merlin_184415379_f6a1bb38-9db8-4f9b-ab30-81dffdfb4535-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Loading grain onto a truck in February in Amritsar, in the northwestern Indian state of Punjab, near the border with Pakistan.",
+                    "copyright": "Rebecca Conway for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3c9lshB"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "For Meghan, an Image Rendered in a U.K.-U.S. Split Screen",
+            "abstract": "She has re-emerged in America as a formidable A-list celebrity and social activist. In Britain, however, Meghan remains a polarizing figure.",
+            "url": "https://www.nytimes.com/2021/11/13/world/europe/meghan-markle-uk-tabloids.html",
+            "uri": "nyt://article/d904c10d-64d8-5841-8cf8-c5e8d90f31d2",
+            "byline": "By Mark Landler",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T11:55:25-05:00",
+            "created_date": "2021-11-13T11:08:14-05:00",
+            "published_date": "2021-11-13T11:08:14-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": ["Royal Families"],
+            "org_facet": ["Sun, The (British Newspaper)"],
+            "per_facet": ["Harry, Duke of Sussex", "Markle, Meghan"],
+            "geo_facet": ["Great Britain"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/13/world/13uk-royals1/13uk-royals1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Prince Harry and Meghan Markle, the Duke and Duchess of Sussex, at a gala for veterans in New York on Wednesday.",
+                    "copyright": "Craig Ruttle/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3wH8aCi"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Bannon Indicted on Contempt Charges Over House’s Capitol Riot Inquiry",
+            "abstract": "Stephen K. Bannon, a former top aide to Donald Trump, had refused to comply with subpoenas from the House committee investigating the Jan. 6 attack on Congress.",
+            "url": "https://www.nytimes.com/2021/11/12/us/politics/bannon-indicted.html",
+            "uri": "nyt://article/a0873dd9-e34a-5b83-a8dd-282e3a60a83d",
+            "byline": "By Katie Benner and Luke Broadwater",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T08:27:59-05:00",
+            "created_date": "2021-11-12T16:05:23-05:00",
+            "published_date": "2021-11-12T16:05:23-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Politics and Government",
+                "Storming of the US Capitol (Jan, 2021)",
+                "Subpoenas",
+                "Executive Privilege, Doctrine of"
+            ],
+            "org_facet": ["House of Representatives"],
+            "per_facet": ["Bannon, Stephen K", "Trump, Donald J"],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/us/politics/12dc-bannon-sub/12dc-bannon-sub-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Stephen K. Bannon had refused last month to comply with subpoenas for information issued by the House select committee investigating the Jan. 6 Capitol riot.",
+                    "copyright": "Carlos Bernate for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3F9uNlY"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "Deere Reaches Third Tentative Deal With Union in Attempt to End Strike",
+            "abstract": "About 10,000 workers primarily in Iowa and Illinois have been out since Oct. 14. They rejected two previous contract proposals negotiated by the United Automobile Workers.",
+            "url": "https://www.nytimes.com/2021/11/13/business/john-deere-strike-union.html",
+            "uri": "nyt://article/df9727ce-c8fa-5c94-9bd0-186685317756",
+            "byline": "By Noam Scheiber",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T14:56:09-05:00",
+            "created_date": "2021-11-13T12:06:06-05:00",
+            "published_date": "2021-11-13T12:06:06-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Wages and Salaries",
+                "Strikes",
+                "Labor and Jobs",
+                "Machinery and Equipment"
+            ],
+            "org_facet": ["Deere & Company", "United Automobile Workers"],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/13/multimedia/13deere-01/13deere-01-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Striking members of the United Automobile Workers outside a John Deere plant in Iowa last month.",
+                    "copyright": "Charlie Neibergall/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3DdxNNv"
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Doctor Charged With False Report to Summon Helicopter on Denali",
+            "abstract": "Federal prosecutors said the climber called rescuers to say that two other people on the mountain, the tallest in North America, were having a medical emergency. But it was a ruse.",
+            "url": "https://www.nytimes.com/2021/11/13/us/doctor-denali-false-report-helicopter.html",
+            "uri": "nyt://article/0fd13fd2-2a2a-5bbb-a630-7764d6b6678d",
+            "byline": "By Amanda Holpuch",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T09:00:05-05:00",
+            "created_date": "2021-11-13T09:00:05-05:00",
+            "published_date": "2021-11-13T09:00:05-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Mountaineering",
+                "Rescues",
+                "Parks and Other Recreation Areas",
+                "Helicopters"
+            ],
+            "org_facet": ["National Park Service", "Anchorage Daily News"],
+            "per_facet": [],
+            "geo_facet": ["Alaska", "North America", "United States", "Utah"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/us/12xp-denali1/12xp-denali1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Denali park rangers warned they had seen “a disturbing amount of overconfidence paired with inexperience” in the first month of the mountain’s 2021 climbing season.",
+                    "copyright": "Becky Bohrer/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3DfMG1N"
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Lawyer for Man Accused of Killing Ahmaud Arbery Draws Scrutiny",
+            "abstract": "Kevin Gough argued that the Rev. Al Sharpton’s presence in court was intimidating to the jury. “We don’t want any more Black pastors coming in here,” he said.",
+            "url": "https://www.nytimes.com/2021/11/12/us/ahmaud-arbery-trial-lawyer-kevin-gough.html",
+            "uri": "nyt://article/2a3dbecf-94f1-502b-a90f-c682c1ceb7d0",
+            "byline": "By Richard Fausset",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T11:19:26-05:00",
+            "created_date": "2021-11-12T18:28:09-05:00",
+            "published_date": "2021-11-12T18:28:09-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Legal Profession",
+                "Murders, Attempted Murders and Homicides",
+                "Discrimination",
+                "Black People"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Gough, Kevin (1962- )",
+                "Sharpton, Al",
+                "Bryan, William Roddie",
+                "Arbery, Ahmaud (1994-2020)"
+            ],
+            "geo_facet": ["Brunswick (Ga)"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/us/12arbery-lawyer-1/merlin_196860771_51e39413-ecb8-4329-9f9d-a292c21b436a-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kevin Gough is a lawyer for William Bryan, one of the three men accused of murdering Ahmaud Arbery in Georgia last year.",
+                    "copyright": "Elijah Nouvelage/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/2YGp8Em"
+        },
+        {
+            "section": "world",
+            "subsection": "africa",
+            "title": "Sudanese Security Forces Fire on Protesters as Military Tightens Grip",
+            "abstract": "At least five people were killed and several wounded as the police fired bullets and tear gas at demonstrators in Sudan’s capital, two days after the army chief signed a contentious decree.",
+            "url": "https://www.nytimes.com/2021/11/13/world/africa/sudan-protests.html",
+            "uri": "nyt://article/1e771e2f-c0c4-56fd-96cd-9412fb8c9ae9",
+            "byline": "By Declan Walsh",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T14:58:20-05:00",
+            "created_date": "2021-11-13T10:31:25-05:00",
+            "published_date": "2021-11-13T10:31:25-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Coups D'Etat and Attempted Coups D'Etat",
+                "Demonstrations, Protests and Riots",
+                "United States International Relations"
+            ],
+            "org_facet": [],
+            "per_facet": ["al-Burhan, Abdel Fattah", "Bashir, Omar Hassan Al-", "Hamdok, Abdalla"],
+            "geo_facet": ["Sudan", "Khartoum (Sudan)"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/13/world/13sudan1/13sudan1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1367,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Protesters in Port Sudan marched on Saturday against the government of  Lt. Gen. Abdel Fattah al-Burhan, who has tightened his grip on Sudan since ousting the civilian prime minister. ",
+                    "copyright": "Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3c9994T"
+        },
+        {
+            "section": "sports",
+            "subsection": "soccer",
+            "title": "U.S. Beats Mexico and Then Rubs It In",
+            "abstract": "Christian Pulisic and Weston McKennie scored and the Americans, fueled by a perceived slight, reveled in their third win over their rival this year.",
+            "url": "https://www.nytimes.com/2021/11/13/sports/soccer/usmnt-mexico-pulisic-mckennie.html",
+            "uri": "nyt://article/2cd3a172-4b86-5f77-8506-3da477121742",
+            "byline": "By Andrew Keh",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T12:25:54-05:00",
+            "created_date": "2021-11-13T03:24:51-05:00",
+            "published_date": "2021-11-13T03:24:51-05:00",
+            "material_type_facet": "",
+            "kicker": "United States 2, Mexico 0",
+            "des_facet": ["Soccer", "World Cup 2022 (Soccer)"],
+            "org_facet": ["United States Men's National Soccer Team"],
+            "per_facet": ["Pulisic, Christian (1998- )", "McKennie, Weston", "Berhalter, Gregg"],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/13/sports/13usmnt2/merlin_197760099_f3cde96f-b0f5-4c7b-87be-6cdc49d669bd-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1333,
+                    "width": 2000,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Weston McKennie, center, with Tyler Adams and Christian Pulisic after McKennie’s goal doubled the Americans’ lead in the 85th minute.",
+                    "copyright": "Julio Cortez/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3DeaJOQ"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "Helene Fortunoff, Who Built a Family Jewelry Empire, Dies at 88",
+            "abstract": "A powerhouse female executive in a male-dominated industry, she hired a team of mostly women buyers who traveled the world to find unusual gems.",
+            "url": "https://www.nytimes.com/2021/11/12/business/helene-fortunoff-dead.html",
+            "uri": "nyt://article/fd16a00d-41d5-5c00-993a-a0b182a1d63a",
+            "byline": "By Katharine Q. Seelye",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T23:40:18-05:00",
+            "created_date": "2021-11-12T16:17:02-05:00",
+            "published_date": "2021-11-12T16:17:02-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Deaths (Obituaries)",
+                "Jewels and Jewelry",
+                "Family Business",
+                "Shopping and Retail",
+                "Women and Girls"
+            ],
+            "org_facet": ["Fortunoff"],
+            "per_facet": ["Fortunoff, Helene"],
+            "geo_facet": ["Fifth Avenue (Manhattan, NY)"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/14/obituaries/11Fortunoff2/2--superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mrs. Fortunoff, right, with the actress Lauren Bacall at an event in New York celebrating Fortunoff 25th anniversary. The company raised its profile by signing Ms. Bacall as a spokeswoman for its jewelry line.",
+                    "copyright": "Randy Brooke/WireImage, via Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3FrGYuL"
+        },
+        {
+            "section": "podcasts",
+            "subsection": "",
+            "title": "Aaron Rodgers’s Vaccine Misinformation and Where States Will Spend Infrastructure Money: The Week in Narrated Articles",
+            "abstract": "Five articles from around The Times, narrated just for you.",
+            "url": "https://www.nytimes.com/2021/11/12/podcasts/aaron-rodgers-coronavirus-apple-narrated-articles.html",
+            "uri": "nyt://article/f6491048-bc87-59a1-bf12-b572f2971eda",
+            "byline": "",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T21:16:01-05:00",
+            "created_date": "2021-11-12T05:30:04-05:00",
+            "published_date": "2021-11-12T05:30:04-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/08/sports/12narrated-1/merlin_196977462_c579a26a-e05f-41c3-8fc3-e026ac00f458-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In an interview last week, Aaron Rodgers said he followed his own “immunization protocol,” though he did not provide details about what it entailed. ",
+                    "copyright": "Christian Petersen/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3otfONc"
+        },
+        {
+            "section": "books",
+            "subsection": "review",
+            "title": "Alan Cumming Talks About ‘Baggage’",
+            "abstract": "The actor and author discusses his new memoir, and Allen C. Guelzo talks about “Robert E. Lee: A Life.”",
+            "url": "https://www.nytimes.com/2021/11/12/books/review/podcast-alan-cumming-baggage-allen-guelzo-robert-e-lee-biography.html",
+            "uri": "nyt://article/6e8e7a9b-560a-5c6c-a8d4-9a996bf5be54",
+            "byline": "",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T14:50:28-05:00",
+            "created_date": "2021-11-12T14:29:48-05:00",
+            "published_date": "2021-11-12T14:29:48-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Books and Literature",
+                "Baggage: Tales From a Fully Packed Life (Book)",
+                "Robert E Lee: A Life (Book)"
+            ],
+            "org_facet": [],
+            "per_facet": ["Cumming, Alan", "Guelzo, Allen C", "Lee, Robert E"],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/books/12pod-cover/12pod-cover-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 648,
+                    "width": 427,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                }
+            ],
+            "short_url": "https://nyti.ms/31Yfleb"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Can We Have Healthy Conversations Online?",
+            "abstract": "Not all online spaces are terrible. Join Shira Ovide, a Times technology writer, for a virtual event on Nov. 18 with the founder of Reddit and a drag queen influencer.",
+            "url": "https://www.nytimes.com/2021/10/20/technology/healthy-online-conversations-event.html",
+            "uri": "nyt://article/e7562627-c52d-5e3a-8554-69857e9039e1",
+            "byline": "By The New York Times",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T16:49:02-05:00",
+            "created_date": "2021-10-20T21:12:49-04:00",
+            "published_date": "2021-10-20T21:12:49-04:00",
+            "material_type_facet": "",
+            "kicker": "New York times event",
+            "des_facet": ["Computers and the Internet", "Social Media", "internal-open-access"],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/10/21/business/ontech-online-event/ontech-online-event-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1110,
+                    "width": 1440,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Abbey Lossing"
+                }
+            ],
+            "short_url": "https://nyti.ms/3E3EFgK"
+        },
+        {
+            "section": "arts",
+            "subsection": "design",
+            "title": "He Stalks Delirious, Unfinished New York as It Rises",
+            "abstract": "Nick Relph’s new book, “Eclipse Body & Soul Syntax,” collects years of digital street scans of New York City construction posters, an eerie portrait of a supersizing metropolis.",
+            "url": "https://www.nytimes.com/2021/11/12/arts/design/nick-relph-eclipse-body-soul-syntax.html",
+            "uri": "nyt://article/11d19af0-9316-524e-b639-5368741c4edb",
+            "byline": "By Randy Kennedy",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T11:47:49-05:00",
+            "created_date": "2021-11-12T05:00:40-05:00",
+            "published_date": "2021-11-12T05:00:40-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Art",
+                "Content Type: Personal Profile",
+                "Building (Construction)",
+                "Books and Literature",
+                "Posters",
+                "Architecture",
+                "Eclipse Body & Soul Syntax (Book)"
+            ],
+            "org_facet": [],
+            "per_facet": ["Relph, Nick"],
+            "geo_facet": ["New York City"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/14/arts/14Relph-book-2/merlin_197168208_e14a7808-6348-4ff5-9c0b-eaad0ef8d366-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The artist Nick Relph at a construction site in Brooklyn, where residential towers are rising everywhere. He has spent seven years scanning renderings of buildings on construction posters, which are collected in a new book. ",
+                    "copyright": "Sinna Nasseri for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/30c97GG"
+        },
+        {
+            "section": "arts",
+            "subsection": "design",
+            "title": "Barbara Kruger: Infinitely Copied, Still Unmatched",
+            "abstract": "For decades this social critic has addressed the powerful influence of media, consumerism and politics. Her work anticipated how images and ideas are now disseminated.",
+            "url": "https://www.nytimes.com/2021/11/11/arts/design/barbara-kruger-art-institute-review.html",
+            "uri": "nyt://article/c5b64d90-3eb3-5556-be3c-a1aebcc210ec",
+            "byline": "By Jon Caramanica",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T16:19:32-05:00",
+            "created_date": "2021-11-11T12:11:47-05:00",
+            "published_date": "2021-11-11T12:11:47-05:00",
+            "material_type_facet": "",
+            "kicker": "Critic’s Pick",
+            "des_facet": [
+                "Art",
+                "Content Type: Personal Profile",
+                "Language and Languages",
+                "Advertising and Marketing"
+            ],
+            "org_facet": ["Art Institute of Chicago"],
+            "per_facet": ["Kruger, Barbara"],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/12/arts/11kruger-review-9/merlin_197580495_21331673-f992-46f9-a006-fc1c841926cb-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Barbara Kruger’s “Untitled (Selfie)” from 2020, on view in her career-spanning exhibition at the Art Institute of Chicago.",
+                    "copyright": "Barbara Kruger"
+                }
+            ],
+            "short_url": "https://nyti.ms/3D92m7c"
+        },
+        {
+            "section": "style",
+            "subsection": "",
+            "title": "I Support My Parents Financially. Can I Have a Say in Their Spending?",
+            "abstract": "A reader asks for permission to tell her parents how to allocate the monthly checks she and her husband send.",
+            "url": "https://www.nytimes.com/2021/11/11/style/parents-financial-support-social-qs.html",
+            "uri": "nyt://article/dc0d5e4c-b385-58f7-a4d3-10e5d7415cef",
+            "byline": "By Philip Galanes",
+            "item_type": "Article",
+            "updated_date": "2021-11-11T17:11:31-05:00",
+            "created_date": "2021-11-11T09:00:03-05:00",
+            "published_date": "2021-11-11T09:00:03-05:00",
+            "material_type_facet": "",
+            "kicker": "Social Q’s",
+            "des_facet": ["Customs, Etiquette and Manners", "Content Type: Service"],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/20/fashion/socialqs-2021-artwork/socialqs-2021-artwork-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1713,
+                    "width": 1712,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Miguel Porlan"
+                }
+            ],
+            "short_url": "https://nyti.ms/3F3wAZO"
+        },
+        {
+            "section": "books",
+            "subsection": "review",
+            "title": "The 2021 New York Times/New York Public Library Best Illustrated Children’s Books Winners at Work",
+            "abstract": "The artists behind this year’s winning books, in their studios.",
+            "url": "https://www.nytimes.com/2021/11/12/books/review/artists-best-illustrated-childrens-books.html",
+            "uri": "nyt://article/112496fe-a6e6-593d-bd2f-ad0a17d133b0",
+            "byline": "By Tammy Tarng and Erica Ackerberg",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T16:43:50-05:00",
+            "created_date": "2021-11-12T05:00:32-05:00",
+            "published_date": "2021-11-12T05:00:32-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": ["Books and Literature", "Art"],
+            "org_facet": [],
+            "per_facet": [
+                "Dorleans, Marie",
+                "DuBois, Gerard",
+                "Cooper, Floyd",
+                "Fan, Eric (Illustrator)",
+                "Fan, Terry (Illustrator)",
+                "Floca, Brian",
+                "Gauld, Tom",
+                "Hyo-eun, Kim",
+                "Morstad, Julie (Illustrator)",
+                "Raul the Third",
+                "Broadley, John"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/09/books/Bestillustrators-kim/oakImage-1636479509509-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 961,
+                    "width": 1280,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Heejoon Lee"
+                }
+            ],
+            "short_url": "https://nyti.ms/30lGHKA"
+        },
+        {
+            "section": "style",
+            "subsection": "",
+            "title": "Bittersweet Memories of Grand Prospect Hall",
+            "abstract": "For couples married at the more than century-old venue in Brooklyn, which is now approved for demolition, their memories will soon be all they have left.",
+            "url": "https://www.nytimes.com/2021/11/09/style/grand-prospect-hall-brooklyn-demolition.html",
+            "uri": "nyt://article/41b3b267-884d-5134-9a21-9861048c5620",
+            "byline": "By Julianne McShane",
+            "item_type": "Article",
+            "updated_date": "2021-11-12T22:41:08-05:00",
+            "created_date": "2021-11-09T10:59:17-05:00",
+            "published_date": "2021-11-09T10:59:17-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": ["Weddings and Engagements"],
+            "org_facet": ["Grand Prospect Hall"],
+            "per_facet": ["Halkias, Michael", "Halkias, Alice"],
+            "geo_facet": ["Brooklyn (NYC)"],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/14/fashion/00GrandProspectHall/00GrandProspectHall-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 849,
+                    "width": 867,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Marian Drobnicki and Charles Drobnicki were wed at Grand Prospect Hall in 1954.",
+                    "copyright": "via Marian Drobnicki"
+                }
+            ],
+            "short_url": "https://nyti.ms/3mZE9dV"
+        },
+        {
+            "section": "at-home",
+            "subsection": "",
+            "title": "Gear Up for Cold Weather Running",
+            "abstract": "If you’re forgoing the treadmill and want to keep logging miles, here’s what you need to keep in mind.",
+            "url": "https://www.nytimes.com/2020/11/19/at-home/winter-running.html",
+            "uri": "nyt://article/18c23dae-6fa5-5dac-807d-4e5dd322b9ba",
+            "byline": "By Jen A. Miller",
+            "item_type": "Article",
+            "updated_date": "2021-11-13T11:50:46-05:00",
+            "created_date": "2020-11-19T17:00:07-05:00",
+            "published_date": "2020-11-19T17:00:07-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Quarantine (Life and Culture)",
+                "Exercise",
+                "Running",
+                "Sneakers",
+                "Content Type: Service"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/11/22/multimedia/22ah-winterrunning/22ah-winterrunning-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Winter running is about more than just covering your upper and lower body. Staying warm without getting overheated can be a tricky dance.",
+                    "copyright": "Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3lPfG7X"
+        },
+        {
+            "section": "well",
+            "subsection": "family",
+            "title": "Healing the Whole Family",
+            "abstract": "My parents wanted a better life for me, but they didn’t know that the scars of their own childhood traumas could still cause pain.",
+            "url": "https://www.nytimes.com/2020/09/22/well/family/childhood-trauma-family.html",
+            "uri": "nyt://article/271d81ac-6d3e-55a0-8965-17432fe1a0e1",
+            "byline": "By Grace Chiang",
+            "item_type": "Article",
+            "updated_date": "2020-09-25T21:52:28-04:00",
+            "created_date": "2020-09-22T05:00:06-04:00",
+            "published_date": "2020-09-22T05:00:06-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Children and Childhood",
+                "Parenting",
+                "Anxiety and Stress",
+                "Mental Health and Disorders",
+                "Families and Family Life",
+                "Therapy and Rehabilitation"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/09/10/smarter-living/00well-family-healing/00well-family-healing-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Jon Han"
+                }
+            ],
+            "short_url": "https://nyti.ms/3kDdtLP"
+        },
+        {
+            "section": "well",
+            "subsection": "mind",
+            "title": "How Honesty Could Make You Happier",
+            "abstract": "An honesty journal can teach you a lot about living a better life.",
+            "url": "https://www.nytimes.com/2017/09/19/well/mind/how-honesty-could-make-you-happier.html",
+            "uri": "nyt://article/8c2e9ca4-0309-5a51-b3e7-c5b9132344cb",
+            "byline": "By Judi Ketteler",
+            "item_type": "Article",
+            "updated_date": "2019-11-26T12:23:24-05:00",
+            "created_date": "2017-09-19T06:00:03-04:00",
+            "published_date": "2017-09-19T06:00:03-04:00",
+            "material_type_facet": "",
+            "kicker": "Voices",
+            "des_facet": [
+                "Lying",
+                "Research",
+                "Social Media",
+                "Mental Health and Disorders",
+                "Happiness"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2017/08/17/science/honesty-illo/honesty-illo-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Hannah K. Lee"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "parenting",
+            "subsection": "",
+            "title": "Mom, Can We Send the Baby Back?",
+            "abstract": "Parents often worry older siblings will feel less loved.",
+            "url": "https://www.nytimes.com/2020/06/30/parenting/introduce-new-baby-sibling.html",
+            "uri": "nyt://article/79815800-de6a-532b-a770-30ad06f68f3b",
+            "byline": "By Zuzana Boehmová",
+            "item_type": "Article",
+            "updated_date": "2020-07-02T10:07:08-04:00",
+            "created_date": "2020-06-30T05:00:10-04:00",
+            "published_date": "2020-06-30T05:00:10-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Children and Childhood",
+                "Parenting",
+                "Babies and Infants",
+                "Pregnancy and Childbirth"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/03/02/multimedia/02-Parenting-introsiblings/02-Parenting-introsiblings-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1750,
+                    "width": 1750,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Alvaro Dominguez"
+                }
+            ],
+            "short_url": "https://nyti.ms/2AjAz8U"
+        },
+        {
+            "section": "well",
+            "subsection": "live",
+            "title": "Weekly Health Quiz: Pain, Covid and Intense Exercise",
+            "abstract": "Test your knowledge of this week’s health news.",
+            "url": "https://www.nytimes.com/interactive/2021/11/11/well/live/11healthquiz-11112021.html",
+            "uri": "nyt://interactive/c7ab9b8e-40ee-5c46-b852-7e7fcb2f7447",
+            "byline": "By Toby Bilanow",
+            "item_type": "Interactive",
+            "updated_date": "2021-11-11T05:00:02-05:00",
+            "created_date": "2021-11-11T05:00:02-05:00",
+            "published_date": "2021-11-11T05:00:02-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": ["Coronavirus (2019-nCoV)", "Exercise", "Medicine and Health", "Pain"],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/04/11/well/00healthquiz-art/11Well-HealthQuiz-icon-superJumbo-v3.jpg",
+                    "format": "superJumbo",
+                    "height": 1968,
+                    "width": 1968,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mikey Burton"
+                }
+            ],
+            "short_url": "https://nyti.ms/3krQpBY"
+        }
+    ]
+}
