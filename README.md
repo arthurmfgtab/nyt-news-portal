@@ -2,13 +2,8 @@
 
 ### News Portal Using New York Times API
 
-\
-&nbsp;
 
-PREVIEW: https://bit.ly/3opdAiU
-
-\
-&nbsp;
+## PREVIEW: https://bit.ly/3opdAiU
 
 ## Technologies Used
 
