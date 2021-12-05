@@ -9,7 +9,7 @@
         </div>
         <div class="logo">
             <router-link to="/">
-                <h1 data-test="header-logo">Jumia <span>News</span></h1>
+                <h1 data-test="header-logo">Vue <span>News</span></h1>
             </router-link>
         </div>
         <div class="search-icon">

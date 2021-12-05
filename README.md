@@ -1,6 +1,8 @@
-# **JUMIA ASSIGNMENT**
+# **VUE NEWS**
 
 ### News Portal Using New York Times API
+
+PREVIEW: https://bit.ly/3opdAiU
 
 \
 &nbsp;
@@ -13,13 +15,8 @@
 -   Cypress (via @vue/cli-plugin-e2e-cypress)
 -   Jest (via @vue/cli-plugin-unit-jest)
 
-**Note**: this was my first experience with VueJS, I figured that this assignment would be a good opportunity to learn it and build something with it (love it, by the way)
-
-&nbsp;
-
 ## How to run the project
 
--   Download and extract the folder (this project will not be on GitHub or any other repository)
 -   Open a terminal on the root of the project
 -   Run `yarn` (or `npm i` if you are using npm) to install its dependencies
 -   Run `yarn serve` (or `npm run serve`) to boot up the project on port 8080

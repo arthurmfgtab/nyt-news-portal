@@ -4,9 +4,9 @@ import Footer from "@/components/Footer.vue"
 describe("Footer.vue", () => {
     it("checks text content of logo, copyright and sections labels", () => {
         const wrapper = mount(Footer)
-        const copyrightText = "© Copyright 2000-2021 Jumia News."
+        const copyrightText = "© Copyright 2000-2021 Vue News."
 
-        expect(wrapper.get("[data-test=footer-logo]").text()).toBe("Jumia News")
+        expect(wrapper.get("[data-test=footer-logo]").text()).toBe("Vue News")
         expect(wrapper.get("[data-test=copyright]").text()).toBe(copyrightText)
 
         expect(wrapper.get("[data-test=section-top-viewed]").text()).toBe("Top Viewed")

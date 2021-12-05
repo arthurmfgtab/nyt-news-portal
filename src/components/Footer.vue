@@ -1,8 +1,8 @@
 <template>
     <footer>
         <div class="footer-left">
-            <h2 data-test="footer-logo">Jumia <span>News</span></h2>
-            <p data-test="copyright">&copy; Copyright 2000-2021 Jumia News.</p>
+            <h2 data-test="footer-logo">Vue <span>News</span></h2>
+            <p data-test="copyright">&copy; Copyright 2000-2021 Vue News.</p>
         </div>
         <div class="footer-right">
             <ul>

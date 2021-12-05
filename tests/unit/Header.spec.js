@@ -10,6 +10,6 @@ describe("Header.vue", () => {
             },
         })
 
-        expect(wrapper.get("[data-test=header-logo]").text()).toBe("Jumia News")
+        expect(wrapper.get("[data-test=header-logo]").text()).toBe("Vue News")
     })
 })
